@@ -3,6 +3,9 @@
 id: 7d3baa59-daab-4f23-830e-5c2811bb2404
 title: 2026-03-18 Nav strongly criticised for lack of digital access for parents
 weight: 10
+lastmod: 2026-11-02T21:35:54+01:00
+last_editor: Erik Hagen
+
 ---
 
 ## Summary of the media coverage

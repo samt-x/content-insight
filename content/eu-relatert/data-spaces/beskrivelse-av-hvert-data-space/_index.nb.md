@@ -2,6 +2,9 @@
 id: da0085bd-99f6-48d0-8243-ec6438dfcc51
 title: Beskrivelse av hvert data space
 weight: 5
+lastmod: 2026-05-21T00:27:07+02:00
+last_editor: Erik Hagen
+
 ---
 Dette kapittelet gir overordnede beskrivelser av Common Data Spaces definert av EU-kommisjonen og utvalgte andre initiativ som er viktige sett med norske øyne. Se også: [Norsk deltakelse](../norsk-deltakelse/). 
 

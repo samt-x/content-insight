@@ -4,6 +4,9 @@ id: 320ceef7-a05f-4c8c-8dea-9c03d8ecf30a
 # id: auto-generated – copied values are overwritten automatically on push
 title: "How to get involved?"
 weight: 50
+lastmod: 2026-11-02T21:35:54+01:00
+last_editor: Erik Hagen
+
 ---
 
 *This chapter outlines the mechanisms available to Norwegian actors who want to get involved in European data spaces — both in the ongoing projects and through forums, communities and direct input. EEA status is not an obstacle; Norwegian actors already take part in several of the initiatives.*

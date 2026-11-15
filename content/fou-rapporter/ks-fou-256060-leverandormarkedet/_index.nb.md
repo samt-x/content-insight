@@ -5,6 +5,8 @@ id: acb557dd-202d-4738-8f53-c310c734201b
 title: "KS FoU 256060 – Leverandørmarkedet for digitale løsninger til kommunal sektor"
 linkTitle: "KS FoU 256060 – Leverandørmarkedet"
 weight: 10
+lastmod: 2026-04-20T18:21:58+02:00
+last_editor: Erik Hagen
 
 ---
 

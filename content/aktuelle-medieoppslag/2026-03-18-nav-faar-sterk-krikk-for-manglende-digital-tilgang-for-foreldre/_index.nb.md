@@ -3,6 +3,8 @@
 id: 7d3baa59-daab-4f23-830e-5c2811bb2404
 title: 2026-03-18 Nav får sterk krikk for manglende digital tilgang for foreldre
 weight: 10
+lastmod: 2026-03-28T10:01:45+01:00
+last_editor: Erik Hagen
 
 ---
 ## Oppsummering av medieoppslag

@@ -3,6 +3,9 @@ id: 243a675d-9f6c-458c-b9b5-f9d023f007de
 title: "Norwegian participation in European data spaces"
 linkTitle: "Norwegian participation"
 weight: 40
+lastmod: 2026-11-02T21:35:54+01:00
+last_editor: Erik Hagen
+
 ---
 
 *Prepared in May 2026. Based on a combination of the European Commission's overviews, the projects' own pages, IDSA's Data Spaces Radar and an internal Digdir mapping. See [Sources](#sources-and-caveats) at the end for a full overview.*

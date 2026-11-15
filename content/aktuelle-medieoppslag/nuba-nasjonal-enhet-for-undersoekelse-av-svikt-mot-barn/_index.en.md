@@ -3,6 +3,9 @@
 id: 4946639a-d3fc-41df-ac3e-caec302fc4e7
 title: NUBA – National unit for investigating failures towards children
 weight: 20
+lastmod: 2026-11-02T21:35:54+01:00
+last_editor: Erik Hagen
+
 ---
 
 ***Nasjonal enhet for undersøkelse av svikt mot barn (NUBA – National unit for investigating failures towards children) is a newly established, independent unit within the Norwegian Board of Health Supervision (Statens helsetilsyn). Its mandate is to investigate serious cases where children have been subjected to homicide, severe violence, sexual abuse or serious neglect, in order to identify system failures and prevent future incidents.***

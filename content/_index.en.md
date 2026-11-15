@@ -5,6 +5,8 @@ title: Sources of shared insight
 linkTitle: Sources of shared insight
 weight: 90
 toc: true
+lastmod: 2026-11-02T21:35:54+01:00
+last_editor: Erik Hagen
 
 ---
 This is where a library of sources of shared insight is built and maintained for SAMT-BU as a project and for the framework that SAMT-BU is to deliver.
