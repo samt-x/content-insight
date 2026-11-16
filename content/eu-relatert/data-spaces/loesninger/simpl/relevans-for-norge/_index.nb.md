@@ -34,6 +34,8 @@ Simpl-Open er den mest konkrete europeiske implementasjonen av byggeklossene som
 
 [Simpl-Labs](../simpl-labs/) gjør det mulig å teste dette mot det europeiske oppsettet før det blir et krav fra en sektor.
 
+Hvilke fellesløsninger som bør analyseres, og hvilke spørsmål som må avklares, står i et eget utkast under Arkitektur: [Fellesløsninger og europeiske krav](/arkitektur/loesningslandskap/fellesloesninger-og-europeiske-krav/). Det dekker også eIDAS 2.0 og Once-Only, ikke bare data spaces.
+
 ---
 
 ### Totalforsvaret og Forsvaret
