@@ -1,4 +1,5 @@
 ---
+id: ee44d70e-c65c-4e84-9baa-61332218dc2f
 title: Simpl-Live
 weight: 30
 lastmod: 2026-11-16T22:30:00+01:00
