@@ -6,7 +6,9 @@ lastmod: 2026-11-16T23:19:31+01:00
 last_editor: Erik Hagen
 
 ---
-*Simpl is the European Commission's programme for common, open middleware for European data spaces. The programme has three parts: the Simpl-Open software, the Simpl-Labs test and sandbox environment, and Simpl-Live, which helps selected data spaces adopt the software.*
+*Simpl is the European Commission's initiative to speed up the development of European data spaces. At its core is Simpl-Open, open source that puts the common standards and patterns for data sharing into practice. Simpl is not meant to be the only solution. The architecture is federated, and other solutions that follow the same standards should be able to work together with it.*
+
+The programme has three parts: the Simpl-Open software, the Simpl-Labs test and sandbox environment, and Simpl-Live, which helps selected data spaces adopt the software.
 
 Status information on these pages is as of 16 November 2026 and comes from the sources linked. Simpl changes quickly, so check the sources before reusing the information.
 
@@ -29,6 +31,20 @@ How this may be relevant to Norwegian actors is discussed under [Relevance for N
 Simpl is not a data space in itself. It is the toolbox that data spaces can build on. The Data Spaces Support Centre (DSSC) produces the guidance, including the Blueprint, Toolbox and Glossary, while Simpl-Open is software in which parts of that guidance can be put into use and tested in practice. According to DSSC, Simpl-Open is one option among several, and it can be used as a whole or as individual components ([DSSC, October 2026](https://dssc.eu/articles/from-guidance-to-deployment-how-simpl-helps-put-dsscs-guidance-into-practice)).
 
 Technically, Simpl-Open builds on the same building blocks that the rest of the field is converging on: the Dataspace Protocol, the Eclipse Dataspace Connector (EDC), ODRL policies, RDF and verifiable credentials. See [Simpl-Open](simpl-open/) for details.
+
+---
+
+### One solution among several
+
+Simpl-Open is designed to work together with other solutions, not to replace them. This is stated in Simpl's own [architecture principles](https://code.europa.eu/simpl/simpl-open/foundations/architecture/-/blob/main/architecture-principles.md):
+
+- **Federation:** Participants are autonomous entities tied together by common standards, frameworks and legal rules, and service owners should have maximum autonomy.
+- **Interoperability:** The architecture should describe how participants share resources, without assuming how each participant has built its own part.
+- **Modularity:** Components can be replaced or added without affecting the rest, and a participant can deploy only the components it needs.
+
+The Simpl programme itself says that initiatives can use individual components to build their own solutions, or use Simpl-Open as a base ([the Simpl programme](https://simpl-programme.ec.europa.eu/dashboard/about-simpl)). DSSC describes Simpl-Open as one option among several. [Simpl-Labs](simpl-labs/) is also to test interoperability with data spaces that already exist.
+
+*Our assessment:* In practice, Simpl-Open works as a reference implementation. It shows how the standards fit together, and provides a common place to test against. For national solutions, the question is therefore not Simpl or our own solutions, but whether our own solutions work together with Simpl. See [Relevance for Norway](relevans-for-norge/).
 
 ---
 

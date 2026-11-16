@@ -12,6 +12,16 @@ The page is mainly a professional assessment. Factual statements are sourced. Th
 
 ---
 
+### An opportunity, not a threat
+
+Many will see Simpl as a competitor to Norwegian shared national solutions. We believe the opposite is true. Simpl builds on a federated architecture where each participant keeps its own solutions, as long as they follow the common standards (see [One solution among several](../#one-solution-among-several)).
+
+- **Reach:** Shared solutions that follow the same standards can become Norway's connection point to European data spaces, and reach further than today, also outside Norway. Examples are services built with Altinn Studio, Altinn Authorisation, ID-porten and the wallet, and data.norge.no.
+- **Precondition:** The solutions must comply with the common requirements: the standards for data sharing (Dataspace Protocol, ODRL, DCAT-AP) and the requirements for identity and trust services (eIDAS 2.0, the EUDI wallet, verifiable credentials). That work has to be done anyway, with or without Simpl.
+- **Arena:** In [Simpl-Labs](../simpl-labs/) we can show that Norwegian solutions work together, and influence the requirements while they are being shaped.
+
+---
+
 ### A common ecosystem: shared national solutions and sector solutions
 
 Simpl-Open is the most concrete European implementation of the building blocks that the European data spaces are converging on: the Dataspace Protocol, connectors, ODRL policies, verifiable credentials and DCAT-based catalogues. For Norwegian shared national solutions, the question is therefore not whether they should relate to these standards, but how and when.
@@ -38,6 +48,7 @@ On the EU side, the European Defence Agency (EDA) is building a separate defence
 
 ### Objections
 
+- **Simpl could crowd out Norwegian shared solutions.** The architecture principles point the other way: federation, and interoperability without requirements on how each participant has built its part. The risk is a different one: those who do not take part in shaping the standards and requirements will have to adapt to them later. That argues for taking part early, not for keeping a distance.
 - **Heavy and driven by the Commission.** Simpl is a large EU programme, and the roadmap is governed by the Commission's priorities. Norwegian actors may get more out of adopting the standards (DSP, ODRL, DCAT-AP) directly than out of relating to all of Simpl.
 - **Limited maturity.** The core governance functions arrive only in Simpl-Open 5.0, and when Simpl-Labs will be generally available is unclear.
 - **Unclear adoption.** There is no public overview of which data spaces actually run Simpl-Open in production.

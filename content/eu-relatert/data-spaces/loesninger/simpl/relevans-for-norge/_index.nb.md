@@ -12,6 +12,16 @@ Siden er i hovedsak en faglig vurdering. Faktaopplysninger har kildehenvisning. 
 
 ---
 
+### Mulighet, ikke trussel
+
+Mange vil se Simpl som en konkurrent til norske fellesløsninger. Vi mener det er omvendt. Simpl bygger på en føderert arkitektur der hver deltaker beholder sine egne løsninger, så lenge de følger de felles standardene (se [Én løsning blant flere](../#én-løsning-blant-flere)).
+
+- **Utbredelse:** Fellesløsninger som følger de samme standardene, kan bli Norges tilkoblingspunkt til europeiske data spaces, og nå lenger ut enn i dag, også utenfor Norge. Eksempler er tjenester bygd med Altinn Studio, Altinn Autorisasjon, ID-porten og lommeboken, og data.norge.no.
+- **Forutsetning:** Løsningene må samsvare med de felles kravene: standardene for datadeling (Dataspace Protocol, ODRL, DCAT-AP) og kravene til identitet og tillitstjenester (eIDAS 2.0, EUDI-lommeboken, verifiserbare attester). Det arbeidet må gjøres uansett, med eller uten Simpl.
+- **Arena:** I [Simpl-Labs](../simpl-labs/) kan vi vise at norske løsninger samvirker, og påvirke kravene mens de formes.
+
+---
+
 ### Felles økosystem: fellesløsninger og sektorløsninger
 
 Simpl-Open er den mest konkrete europeiske implementasjonen av byggeklossene som de europeiske data spacene samles om: Dataspace Protocol, connector, ODRL-policyer, verifiserbare attester og DCAT-baserte kataloger. For norske fellesløsninger er spørsmålet derfor ikke om de skal forholde seg til disse standardene, men hvordan og når.
@@ -38,6 +48,7 @@ På EU-siden bygger Det europeiske forsvarsbyrået (EDA) et eget forsvarsdatarom
 
 ### Innvendinger
 
+- **Simpl kan fortrenge norske fellesløsninger.** Arkitekturprinsippene peker den andre veien: føderasjon, og samvirke uten krav om hvordan hver deltaker har bygd sin del. Risikoen er en annen: den som ikke er med og former standardene og kravene, må tilpasse seg dem senere. Det taler for å delta tidlig, ikke for å holde avstand.
 - **Tungt og styrt fra Kommisjonen.** Simpl er et stort EU-program, og veikartet styres av Kommisjonens prioriteringer. Norske aktører kan få mer ut av å ta i bruk standardene (DSP, ODRL, DCAT-AP) direkte enn av å forholde seg til hele Simpl.
 - **Begrenset modenhet.** De sentrale styringsfunksjonene kommer først i Simpl-Open 5.0, og når Simpl-Labs blir allment tilgjengelig, er uklart.
 - **Uklar utbredelse.** Det finnes ingen offentlig oversikt over hvilke data spaces som faktisk kjører Simpl-Open i produksjon.
