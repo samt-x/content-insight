@@ -2,7 +2,7 @@
 id: 65e24b6e-d64e-4922-8147-1593f887bc02
 title: Finding your way in the Simpl documentation
 weight: 50
-lastmod: 2026-11-16T22:30:00+01:00
+lastmod: 2026-11-16T23:19:31+01:00
 last_editor: Erik Hagen
 
 ---
