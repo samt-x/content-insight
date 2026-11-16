@@ -36,6 +36,18 @@ Simpl-Labs has set up a user group (User Interest Group, UIG) where data space i
 
 For Norwegian actors, the user group is an opportunity to influence Labs while the service is still being shaped, and to get early access to a common European test environment.
 
+#### What participation involves
+
+According to the Simpl-Labs team (email to Digdir, November 2026), participation is meant to be flexible and proportionate to each organisation's capacity:
+
+- **The main expectation** is feedback on the platform and its functionalities as they become available.
+- **Possible activities** are occasional discussion meetings (for example one a month), reviewing proposed features, testing selected functionalities, and feedback forms and surveys.
+- **The workload** is not expected to be particularly heavy, and activities are to be aligned with participants' availability and areas of interest.
+- **Waves:** Participation is organised in several waves, each with new functionalities. It is possible to join in a later wave.
+- **Multiple users:** An organisation can onboard multiple users. How this works, and any limitations, will be presented at the kick-off meeting.
+
+*Our assessment:* The first waves set the direction for what Simpl-Labs will offer and which needs are prioritised next. Feedback from testing in Labs will probably also influence what is prioritised in Simpl-Open. Those who join later test what others have asked for. Norwegian actors should therefore take part from the first wave, with concrete Norwegian testing needs, rather than wait until the solution is mature.
+
 ---
 
 ### What Norwegian actors can use Simpl-Labs for

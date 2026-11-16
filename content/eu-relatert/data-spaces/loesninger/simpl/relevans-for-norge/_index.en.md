@@ -49,6 +49,6 @@ Our overall assessment is that Simpl is most valuable as a signal of the directi
 
 ### Possible next steps
 
-- Take part in the Simpl-Labs user group and bring concrete Norwegian testing needs.
+- Take part in the Simpl-Labs user group from the first wave, and bring concrete Norwegian testing needs. Priorities are set early (see [Simpl-Labs](../simpl-labs/)).
 - Test the link between Altinn authorisation and ODRL, and between the wallet and verifiable credentials, in Simpl-Labs.
 - Explore a joint civil–military test of data sharing in total defence together with the Armed Forces.

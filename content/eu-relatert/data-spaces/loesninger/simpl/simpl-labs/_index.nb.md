@@ -36,6 +36,18 @@ Simpl-Labs har opprettet en brukergruppe (User Interest Group, UIG) der data spa
 
 For norske aktører er brukergruppen en mulighet til å påvirke Labs mens tjenesten fortsatt formes, og til å få tidlig tilgang til et felles europeisk testmiljø.
 
+#### Hva deltakelse innebærer
+
+Ifølge Simpl-Labs-teamet (e-post til Digdir, november 2026) skal deltakelsen være fleksibel og tilpasset hvor mye hver organisasjon har kapasitet til:
+
+- **Hovedforventningen** er tilbakemeldinger på plattformen og funksjonene etter hvert som de blir tilgjengelige.
+- **Aktuelle aktiviteter** er diskusjonsmøter av og til (for eksempel ett i måneden), gjennomgang av foreslåtte funksjoner, testing av utvalgte funksjoner, og tilbakemeldingsskjemaer og spørreundersøkelser.
+- **Arbeidsmengden** ventes ikke å bli spesielt stor, og aktivitetene skal tilpasses deltakernes tilgjengelighet og interesseområder.
+- **Waves (bølger):** Deltakelsen er organisert i flere waves, med nye funksjoner i hver. Det er mulig å komme inn i en senere wave.
+- **Flere brukere:** En organisasjon kan ta inn flere brukere. Hvordan det skjer, og eventuelle begrensninger, blir presentert på oppstartsmøtet.
+
+*Vår vurdering:* Det er de første wavene som legger føringene for hva Simpl-Labs skal tilby, og hvilke behov som prioriteres videre. Tilbakemeldinger fra testing i Labs vil trolig også påvirke hva som prioriteres i Simpl-Open. Den som kommer inn senere, tester det andre har bedt om. Norske aktører bør derfor være med fra første wave, med konkrete norske testbehov, i stedet for å vente til løsningen er moden.
+
 ---
 
 ### Hva norske aktører kan bruke Simpl-Labs til

@@ -12,6 +12,8 @@ last_editor: Erik Hagen
 
 ### Wave 1 and wave 2
 
+Simpl-Live takes in data spaces in waves.
+
 | Wave | Data spaces and initiatives | Status |
 |---|---|---|
 | Wave 1 | Public procurement (PPDS), secondary use of health data (EHDS2), language (LDS), European Open Science Cloud (EOSC), Destination Earth (DestinE), Smart Communities (SCDS) | The feasibility studies were completed in 2024. Implementation started on 26 February 2026 |

@@ -49,6 +49,6 @@ Vår samlede vurdering er at Simpl er mest verdifullt som et signal om hvilken r
 
 ### Mulige neste steg
 
-- Delta i brukergruppen for Simpl-Labs og ta med konkrete norske testbehov.
+- Delta i brukergruppen for Simpl-Labs fra første wave, og ta med konkrete norske testbehov. Det er tidlig at prioriteringene settes (se [Simpl-Labs](../simpl-labs/)).
 - Teste koblingen mellom Altinn-autorisasjon og ODRL, og mellom lommebok og verifiserbare attester, i Simpl-Labs.
 - Utforske en felles sivil–militær test av datadeling i totalforsvaret sammen med Forsvaret.
