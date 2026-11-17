@@ -16,11 +16,17 @@ Opplysninger om status på disse sidene gjelder per 16. november 2026 og er hent
 
 ### De tre delene
 
-| Del | Hva det er | Status (november 2026) |
-|---|---|---|
-| [Simpl-Open](simpl-open/) | Åpen kildekode (EUPL 1.2) med modulære komponenter for datadeling i data spaces | Versjon 4.0 kom i juli 2026 og 4.1 i november 2026. Versjon 5.0 er planlagt |
-| [Simpl-Labs](simpl-labs/) | Sandkasse for å prøve ut et data space, og testmiljø for interoperabilitet mot Simpl-Open | Under oppbygging. Gjennomføringsfasen startet i februar 2026 |
-| [Simpl-Live](simpl-live/) | Støtte til utvalgte europeiske data spaces: først en forstudie, deretter hjelp med å implementere Simpl-Open | Seks data spaces i wave 1 (bølge 1) og fem initiativer i wave 2. Gjennomføringen av wave 1 startet i februar 2026 |
+{{< kortrad >}}
+{{< kort tittel="Simpl-Open" ikon="code" lenke="simpl-open/" etikett="Status november 2026" status="Versjon 4.0 kom i juli 2026 og 4.1 i november 2026. Versjon 5.0 er planlagt." >}}
+Åpen kildekode (EUPL 1.2) med modulære komponenter for datadeling i data spaces.
+{{< /kort >}}
+{{< kort tittel="Simpl-Labs" ikon="flask" lenke="simpl-labs/" etikett="Status november 2026" status="Under oppbygging. Gjennomføringsfasen startet i februar 2026." >}}
+Sandkasse for å prøve ut et data space, og testmiljø for interoperabilitet mot Simpl-Open.
+{{< /kort >}}
+{{< kort tittel="Simpl-Live" ikon="rocket" lenke="simpl-live/" etikett="Status november 2026" status="Seks data spaces i wave 1 (bølge 1) og fem initiativer i wave 2. Gjennomføringen av wave 1 startet i februar 2026." >}}
+Støtte til utvalgte europeiske data spaces: først en forstudie, deretter hjelp med å implementere Simpl-Open.
+{{< /kort >}}
+{{< /kortrad >}}
 
 Hvordan dette kan være relevant for norske aktører, er omtalt under [Relevans for Norge](relevans-for-norge/). Under [Finn fram i Simpl-dokumentasjonen](finn-fram/) finner du en veiledning til arkitekturdokumentasjonen, som nå i hovedsak ligger som Markdown-filer i GitLab.
 
