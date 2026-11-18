@@ -2,7 +2,7 @@
 id: 31003db8-7c1e-43b4-993f-66a005f55841
 title: About Simpl
 weight: 5
-lastmod: 2026-11-18T20:33:26+01:00
+lastmod: 2026-11-18T21:07:24+01:00
 last_editor: Erik Hagen
 
 ---

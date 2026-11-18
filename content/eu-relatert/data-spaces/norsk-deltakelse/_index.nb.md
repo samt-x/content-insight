@@ -3,7 +3,7 @@ id: 243a675d-9f6c-458c-b9b5-f9d023f007de
 title: "Norsk deltakelse i europeiske data spaces"
 linkTitle: "Norsk deltakelse"
 weight: 40
-lastmod: 2026-11-02T21:35:54+01:00
+lastmod: 2026-11-18T21:07:24+01:00
 last_editor: Erik Hagen
 
 ---
