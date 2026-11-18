@@ -6,6 +6,8 @@ lastmod: 2026-11-18T20:33:26+01:00
 last_editor: Erik Hagen
 
 ---
+*Simpl is the European Commission's initiative to speed up the development of European data spaces. At its core is Simpl-Open, open source that puts the common standards and patterns for data sharing into practice. Simpl is not meant to be the only solution. The architecture is federated, and other solutions that follow the same standards should be able to work together with it.*
+
 The programme has three parts: the Simpl-Open software, the Simpl-Labs test and sandbox environment, and Simpl-Live, which helps selected data spaces adopt the software.
 
 Status information on these pages is as of 16 November 2026 and comes from the sources linked. Simpl changes quickly, so check the sources before reusing the information.

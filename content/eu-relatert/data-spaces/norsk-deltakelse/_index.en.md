@@ -123,7 +123,7 @@ The overview builds on several layers of sources that are combined to give as co
 - Data Union Strategy (November 2025) — the source for defence being added as a new data space
 - Overview of upcoming DIGITAL calls (Skills, Tourism, EHDS, etc.) — [digdir.no, "Er du klar for de siste rundene med DIGITAL-utlysninger?" (Are you ready for the final rounds of DIGITAL calls?)](https://www.digdir.no/internasjonalt-arbeid/er-du-klar-de-siste-rundene-med-digital-utlysninger/7831)
 - Data Spaces Support Centre (DSSC) — [dssc.eu](https://dssc.eu)
-- SIMPL, common middleware for data spaces — [simpl-programme.ec.europa.eu](https://simpl-programme.ec.europa.eu)
+- Simpl, common middleware for data spaces — [simpl-programme.ec.europa.eu](https://simpl-programme.ec.europa.eu)
 - SEMIC Support Centre, semantic interoperability — [joinup.ec.europa.eu/collection/semic](https://joinup.ec.europa.eu/collection/semic)
 
 ### Norwegian participation — Digdir's mapping

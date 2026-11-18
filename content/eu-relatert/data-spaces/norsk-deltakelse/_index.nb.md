@@ -123,7 +123,7 @@ Oversikten bygger på flere kildelag som kombineres for å gi et så fullstendig
 - Data Union Strategy (november 2025) — kilden til at forsvar er lagt til som nytt data space
 - Oversikt over kommende DIGITAL-utlysninger (Skills, Tourism, EHDS m.fl.) — [digdir.no, «Er du klar for de siste rundene med DIGITAL-utlysninger?»](https://www.digdir.no/internasjonalt-arbeid/er-du-klar-de-siste-rundene-med-digital-utlysninger/7831)
 - Data Spaces Support Centre (DSSC) — [dssc.eu](https://dssc.eu)
-- SIMPL, felles mellomvare for data spaces — [simpl-programme.ec.europa.eu](https://simpl-programme.ec.europa.eu)
+- Simpl, felles mellomvare for data spaces — [simpl-programme.ec.europa.eu](https://simpl-programme.ec.europa.eu)
 - SEMIC Support Centre, semantisk interoperabilitet — [joinup.ec.europa.eu/collection/semic](https://joinup.ec.europa.eu/collection/semic)
 
 ### Norsk deltakelse — Digdirs kartlegging

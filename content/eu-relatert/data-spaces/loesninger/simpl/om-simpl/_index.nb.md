@@ -6,6 +6,8 @@ lastmod: 2026-11-18T20:33:26+01:00
 last_editor: Erik Hagen
 
 ---
+*Simpl er EU-kommisjonens satsing for å få fart på utviklingen av europeiske data spaces. Kjernen er Simpl-Open, åpen kildekode som tar i bruk de felles standardene og mønstrene for datadeling. Simpl er ikke ment å være den eneste løsningen. Arkitekturen er føderert, og andre løsninger som følger de samme standardene, skal kunne samvirke med den.*
+
 Programmet har tre deler: programvaren Simpl-Open, test- og sandkassemiljøet Simpl-Labs, og Simpl-Live, som hjelper utvalgte data spaces med å ta programvaren i bruk.
 
 Opplysninger om status på disse sidene gjelder per 16. november 2026 og er hentet fra kildene som er lenket til. Simpl endrer seg raskt, så sjekk kildene før du bruker opplysningene videre.
