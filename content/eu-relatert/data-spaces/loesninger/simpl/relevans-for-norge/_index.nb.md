@@ -14,7 +14,7 @@ Siden er i hovedsak en faglig vurdering. Faktaopplysninger har kildehenvisning. 
 
 ### Mulighet, ikke trussel
 
-Mange vil se Simpl som en konkurrent til norske fellesløsninger. Vi mener det er omvendt. Simpl bygger på en føderert arkitektur der hver deltaker beholder sine egne løsninger, så lenge de følger de felles standardene (se [Én løsning blant flere](../#én-løsning-blant-flere)).
+Mange vil se Simpl som en konkurrent til norske fellesløsninger. Vi mener det er omvendt. Simpl bygger på en føderert arkitektur der hver deltaker beholder sine egne løsninger, så lenge de følger de felles standardene (se [Én løsning blant flere](../om-simpl/#én-løsning-blant-flere)).
 
 - **Utbredelse:** Fellesløsninger som følger de samme standardene, kan bli Norges tilkoblingspunkt til europeiske data spaces, og nå lenger ut enn i dag, også utenfor Norge. Eksempler er tjenester bygd med Altinn Studio, Altinn Autorisasjon, ID-porten og lommeboken, og data.norge.no.
 - **Forutsetning:** Løsningene må samsvare med de felles kravene: standardene for datadeling (Dataspace Protocol, ODRL, DCAT-AP) og kravene til identitet og tillitstjenester (eIDAS 2.0, EUDI-lommeboken, verifiserbare attester). Det arbeidet må gjøres uansett, med eller uten Simpl.

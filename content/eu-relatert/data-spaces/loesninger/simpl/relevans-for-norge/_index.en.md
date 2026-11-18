@@ -14,7 +14,7 @@ The page is mainly a professional assessment. Factual statements are sourced. Th
 
 ### An opportunity, not a threat
 
-Many will see Simpl as a competitor to Norwegian shared national solutions. We believe the opposite is true. Simpl builds on a federated architecture where each participant keeps its own solutions, as long as they follow the common standards (see [One solution among several](../#one-solution-among-several)).
+Many will see Simpl as a competitor to Norwegian shared national solutions. We believe the opposite is true. Simpl builds on a federated architecture where each participant keeps its own solutions, as long as they follow the common standards (see [One solution among several](../om-simpl/#one-solution-among-several)).
 
 - **Reach:** Shared solutions that follow the same standards can become Norway's connection point to European data spaces, and reach further than today, also outside Norway. Examples are services built with Altinn Studio, Altinn Authorisation, ID-porten and the wallet, and data.norge.no.
 - **Precondition:** The solutions must comply with the common requirements: the standards for data sharing (Dataspace Protocol, ODRL, DCAT-AP) and the requirements for identity and trust services (eIDAS 2.0, the EUDI wallet, verifiable credentials). That work has to be done anyway, with or without Simpl.
