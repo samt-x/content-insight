@@ -17,6 +17,8 @@ Siden er i hovedsak en faglig vurdering. Faktaopplysninger har kildehenvisning. 
 
 ### Muligheter for Norge
 
+{{< i-arbeid >}}
+
 Simpl bygger på en føderert arkitektur der hver deltaker beholder sine egne løsninger, så lenge de følger de felles standardene (se [Én løsning blant flere](../om-simpl/#én-løsning-blant-flere)). Det gir norske løsninger flere muligheter:
 
 - **Utbredelse:** Fellesløsninger som følger de samme standardene, kan bli Norges tilkoblingspunkt til europeiske data spaces, og nå lenger ut enn i dag, også utenfor Norge. Eksempler er tjenester bygd med Altinn Studio, Altinn Autorisasjon, ID-porten og lommeboken, og data.norge.no.
@@ -27,6 +29,8 @@ Simpl bygger på en føderert arkitektur der hver deltaker beholder sine egne l�
 ### Konsekvenser for Norge
 
 #### Overordnet: Norges digitale fellesinfrastruktur
+
+{{< i-arbeid >}}
 
 Simpl-Open er den mest konkrete europeiske implementasjonen av byggeklossene som de europeiske data spacene samles om: Dataspace Protocol, connector, ODRL-policyer, verifiserbare attester og DCAT-baserte kataloger. For norske fellesløsninger er spørsmålet derfor ikke om de skal forholde seg til disse standardene, men hvordan og når.
 
@@ -40,6 +44,8 @@ Hvilke fellesløsninger som bør analyseres, og hvilke spørsmål som må avklar
 *Kommer.* Stikkord: et samlet blikk på Norges digitale fellesinfrastruktur (Digital Public Infrastructure, DPI) i lys av Simpl.
 
 #### For utvalgte aktører
+
+{{< i-arbeid >}}
 
 **Digdir**
 
@@ -58,6 +64,8 @@ Hvilke fellesløsninger som bør analyseres, og hvilke spørsmål som må avklar
 
 #### Totalforsvaret og Forsvaret
 
+{{< i-arbeid >}}
+
 Forsvaret lanserte *Forsvarets datasentriske arkitektur* (FDSA), også kalt «datagrunnloven», under Arendalsuka i august 2026. Arkitekturen er utviklet sammen med NATO, NSM og FFI. Prinsippene er at data skal holdes atskilt fra systemene, at regler for sikkerhet, tilgang og deling skal følge dataene, at teknologien skal kunne byttes ut, og at grensesnittene skal være standardiserte. FDSA styrer først og fremst Forsvarets egne anskaffelser, men prinsippene er åpne slik at sivile aktører som telekom, transport og kommuner kan dele data med Forsvaret i en krise ([Digital Norway, august 2026](https://digitalnorway.com/aktuelt/forsvaret-lanserer-ny-datagrunnlov-grunnmuren-for-et-digitalt-totalforsvar)). NATO har publisert en egen [datasentrisk referansearkitektur](https://nhqc3s.hq.nato.int/apps/DCRA_Report/index.html).
 
 På EU-siden bygger Det europeiske forsvarsbyrået (EDA) et eget forsvarsdatarom, European Defence Artificial Intelligence Data Space (DAIDS). Det skal være i ordinær bruk rundt 2029–2030 ([Computing](https://www.computing.co.uk/news/2026/security/eu-hopes-to-sever-defence-data); [Sopra Steria, april 2025](https://www.soprasteria.be/newsroom/press-releases/details/european-defence-agency-select-sopra-steria-CDE-and-CEA-for-framework-contract)). Vi har ikke funnet noen kobling mellom DAIDS og Simpl.
@@ -72,6 +80,8 @@ Simpl er ikke laget for graderte data. For gradert informasjon gjelder fortsatt 
 
 #### Status og utbredelse
 
+{{< i-arbeid >}}
+
 Simpl-Live omfatter 11 data spaces og initiativer, seks i wave 1 og fem i wave 2 ([arbeidsprogrammet for Digital Europe 2025–2027, uoffisiell konsolidert utgave](https://www.ffg.at/sites/default/files/2026-05/DIGITAL%20WP%2025-27_Unofficial%20version%20with%20amendments.pdf), s. 30). Programmet deler gjennomføringen i fem trinn: revisjon av krav, teknisk validering, akseptanse, operativ drift og vedlikehold ([Simpl-programmet, august 2026](https://simpl-programme.ec.europa.eu/system/files/2026-08/Simpl_Live_Implementation_Phase_Visual.pdf)).
 
 - **Wave 1:** Integrasjonen av Simpl-Open startet i februar 2026. I mai 2026 var de første workshopene holdt for å revidere krav og scenarier ([Simpl, mai 2026](https://ec.europa.eu/newsroom/simpl/redirection/item/940026)), og i oktober 2026 var integrasjonen i gang i alle seks ([Simpl, oktober 2026](https://ec.europa.eu/newsroom/simpl/items/959708/en)). Den er planlagt ferdig i oktober 2027 ([faktaark for Simpl-Live](https://simpl-programme.ec.europa.eu/system/files/2026-05/Factsheet_Simpl-Live_A4%2016.pdf)).
@@ -84,6 +94,8 @@ Vi har ikke funnet noen kilde som sier at Simpl-Open er i operativ drift i et da
 
 #### Modenhet og framdrift
 
+{{< i-arbeid >}}
+
 Simpl-Open kommer i jevnlige versjoner: proof of concept i juli 2024, MVP i januar 2025, versjon 4.0 i juli 2026 og 4.1 i november 2026. Versjon 5.0 er planlagt til 4. kvartal 2026 (se [Simpl-Open](../simpl-open/)). Grunnleggende styring har vært med siden MVP, mens forvaltning og håndheving av kontrakter, policyer og samtykke kommer i 5.0.
 
 Framdriften har vært langsommere enn først planlagt. I 2023 skulle MVP komme senest ved utgangen av 2024 ([Kommisjonen, oktober 2023](https://digital-strategy.ec.europa.eu/en/node/10891/printable/pdf)). Den kom 30. januar 2025 ([Simpl-Open-veikartet, mai 2025](https://simpl-programme.ec.europa.eu/system/files/2025-05/Simpl-Open%20Roadmap%20May%20Update%20and%20June%20Release%20Details%202025.pdf)). Simpl-Labs var i mars 2026 varslet til høsten 2026, mens DSSC i oktober 2026 omtalte interoperabilitetstesting i Labs som noe som kommer i 2027 (se [Simpl-Labs](../simpl-labs/)).
@@ -92,15 +104,21 @@ Programmet er videreført med 52,9 millioner euro for 2025–2027 ([arbeidsprogr
 
 #### Kritikk
 
+{{< i-arbeid >}}
+
 *Kommer.* Stikkord: hva en europeisk referanseimplementasjon betyr for markedsløsninger som bygger på de samme åpne standardene. Styringen av programmet og veikartet ligger hos Kommisjonen.
 
 #### Fellesløsningenes plass
+
+{{< i-arbeid >}}
 
 *Kommer.* Stikkord: forholdet mellom Simpl og Norges eksisterende fellesløsninger. Arkitekturprinsippene i Simpl er føderasjon, og samvirke uten krav om hvordan hver deltaker har bygd sin del (se [Én løsning blant flere](../om-simpl/#én-løsning-blant-flere)). Den som ikke er med og former standardene og kravene, må tilpasse seg dem senere.
 
 ---
 
 ### Mulige neste steg
+
+{{< i-arbeid >}}
 
 - Delta i brukergruppen for Simpl-Labs fra første wave, og ta med konkrete norske testbehov. Det er tidlig at prioriteringene settes (se [Simpl-Labs](../simpl-labs/)).
 - Teste koblingen mellom Altinn-autorisasjon og ODRL, og mellom lommebok og verifiserbare attester, i Simpl-Labs.

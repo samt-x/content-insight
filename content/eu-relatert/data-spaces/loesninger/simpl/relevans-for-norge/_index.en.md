@@ -17,6 +17,8 @@ The page is mainly a professional assessment. Factual statements are sourced. Th
 
 ### Opportunities for Norway
 
+{{< i-arbeid >}}
+
 Simpl builds on a federated architecture where each participant keeps its own solutions, as long as they follow the common standards (see [One solution among several](../om-simpl/#one-solution-among-several)). This gives Norwegian solutions several opportunities:
 
 - **Reach:** Shared solutions that follow the same standards can become Norway's connection point to European data spaces, and reach further than today, also outside Norway. Examples are services built with Altinn Studio, Altinn Authorisation, ID-porten and the wallet, and data.norge.no.
@@ -27,6 +29,8 @@ Simpl builds on a federated architecture where each participant keeps its own so
 ### Consequences for Norway
 
 #### Overall: Norway's digital public infrastructure
+
+{{< i-arbeid >}}
 
 Simpl-Open is the most concrete European implementation of the building blocks that the European data spaces are converging on: the Dataspace Protocol, connectors, ODRL policies, verifiable credentials and DCAT-based catalogues. For Norwegian shared national solutions, the question is therefore not whether they should relate to these standards, but how and when.
 
@@ -40,6 +44,8 @@ Which shared solutions should be analysed, and which questions must be clarified
 *Coming.* Keywords: an overall view of Norway's digital public infrastructure (DPI) in the light of Simpl.
 
 #### For selected actors
+
+{{< i-arbeid >}}
 
 **Digdir**
 
@@ -58,6 +64,8 @@ Which shared solutions should be analysed, and which questions must be clarified
 
 #### Total defence and the Norwegian Armed Forces
 
+{{< i-arbeid >}}
+
 The Norwegian Armed Forces launched *the Armed Forces' data-centric architecture* (FDSA), also called the "data constitution", during Arendalsuka in August 2026. The architecture was developed together with NATO, the Norwegian National Security Authority (NSM) and the Norwegian Defence Research Establishment (FFI). The principles are that data should be kept separate from the systems, that rules for security, access and sharing should follow the data, that the technology should be replaceable, and that interfaces should be standardised. FDSA primarily governs the Armed Forces' own procurements, but the principles are open, so that civilian actors such as telecoms, transport and municipalities can share data with the Armed Forces in a crisis ([Digital Norway, August 2026](https://digitalnorway.com/aktuelt/forsvaret-lanserer-ny-datagrunnlov-grunnmuren-for-et-digitalt-totalforsvar)). NATO has published its own [data-centric reference architecture](https://nhqc3s.hq.nato.int/apps/DCRA_Report/index.html).
 
 On the EU side, the European Defence Agency (EDA) is building a separate defence data space, the European Defence Artificial Intelligence Data Space (DAIDS). It is to be in routine use around 2029–2030 ([Computing](https://www.computing.co.uk/news/2026/security/eu-hopes-to-sever-defence-data); [Sopra Steria, April 2025](https://www.soprasteria.be/newsroom/press-releases/details/european-defence-agency-select-sopra-steria-CDE-and-CEA-for-framework-contract)). We have found no link between DAIDS and Simpl.
@@ -72,6 +80,8 @@ Simpl is not designed for classified data. For classified information, NATO stan
 
 #### Status and adoption
 
+{{< i-arbeid >}}
+
 Simpl-Live covers 11 data spaces and initiatives, six in wave 1 and five in wave 2 ([Digital Europe work programme 2025–2027, unofficial consolidated version](https://www.ffg.at/sites/default/files/2026-05/DIGITAL%20WP%2025-27_Unofficial%20version%20with%20amendments.pdf), p. 30). The programme divides implementation into five steps: review of requirements, technical validation, acceptance, operational deployment and maintenance ([the Simpl programme, August 2026](https://simpl-programme.ec.europa.eu/system/files/2026-08/Simpl_Live_Implementation_Phase_Visual.pdf)).
 
 - **Wave 1:** Integration of Simpl-Open started in February 2026. By May 2026 the first workshops had been held to review requirements and scenarios ([Simpl, May 2026](https://ec.europa.eu/newsroom/simpl/redirection/item/940026)), and in October 2026 integration was under way in all six ([Simpl, October 2026](https://ec.europa.eu/newsroom/simpl/items/959708/en)). It is planned to be completed in October 2027 ([Simpl-Live factsheet](https://simpl-programme.ec.europa.eu/system/files/2026-05/Factsheet_Simpl-Live_A4%2016.pdf)).
@@ -84,6 +94,8 @@ We have not found any source saying that Simpl-Open is in operational use in a d
 
 #### Maturity and progress
 
+{{< i-arbeid >}}
+
 Simpl-Open is released regularly: a proof of concept in July 2024, the MVP in January 2025, version 4.0 in July 2026 and 4.1 in November 2026. Version 5.0 is planned for Q4 2026 (see [Simpl-Open](../simpl-open/)). Basic governance has been included since the MVP, while management and enforcement of contracts, policies and consent arrive in 5.0.
 
 Progress has been slower than first planned. In 2023 the MVP was to arrive no later than the end of 2024 ([the Commission, October 2023](https://digital-strategy.ec.europa.eu/en/node/10891/printable/pdf)). It arrived on 30 January 2025 ([Simpl-Open roadmap, May 2025](https://simpl-programme.ec.europa.eu/system/files/2025-05/Simpl-Open%20Roadmap%20May%20Update%20and%20June%20Release%20Details%202025.pdf)). In March 2026 Simpl-Labs was announced for autumn 2026, while in October 2026 DSSC described interoperability testing in Labs as coming in 2027 (see [Simpl-Labs](../simpl-labs/)).
@@ -92,15 +104,21 @@ The programme has been continued with EUR 52.9 million for 2025–2027 ([the wor
 
 #### Criticism
 
+{{< i-arbeid >}}
+
 *Coming.* Keywords: what a European reference implementation means for market solutions built on the same open standards. Governance of the programme and the roadmap lies with the Commission.
 
 #### The place of the shared national solutions
+
+{{< i-arbeid >}}
 
 *Coming.* Keywords: the relationship between Simpl and Norway's existing shared national solutions. Simpl's architecture principles are federation, and interoperability without requirements on how each participant has built its part (see [One solution among several](../om-simpl/#one-solution-among-several)). Those who do not take part in shaping the standards and requirements will have to adapt to them later.
 
 ---
 
 ### Possible next steps
+
+{{< i-arbeid >}}
 
 - Take part in the Simpl-Labs user group from the first wave, and bring concrete Norwegian testing needs. Priorities are set early (see [Simpl-Labs](../simpl-labs/)).
 - Test the link between Altinn authorisation and ODRL, and between the wallet and verifiable credentials, in Simpl-Labs.
