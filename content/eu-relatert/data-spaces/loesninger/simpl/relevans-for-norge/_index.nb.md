@@ -72,11 +72,23 @@ Simpl er ikke laget for graderte data. For gradert informasjon gjelder fortsatt 
 
 #### Status og utbredelse
 
-*Kommer.* Status for Simpl-Live (wave 1 og 2) og annen kjent bruk av Simpl-Open undersøkes.
+Simpl-Live omfatter 11 data spaces og initiativer, seks i wave 1 og fem i wave 2 ([arbeidsprogrammet for Digital Europe 2025–2027, uoffisiell konsolidert utgave](https://www.ffg.at/sites/default/files/2026-05/DIGITAL%20WP%2025-27_Unofficial%20version%20with%20amendments.pdf), s. 30). Programmet deler gjennomføringen i fem trinn: revisjon av krav, teknisk validering, akseptanse, operativ drift og vedlikehold ([Simpl-programmet, august 2026](https://simpl-programme.ec.europa.eu/system/files/2026-08/Simpl_Live_Implementation_Phase_Visual.pdf)).
+
+- **Wave 1:** Integrasjonen av Simpl-Open startet i februar 2026. I mai 2026 var de første workshopene holdt for å revidere krav og scenarier ([Simpl, mai 2026](https://ec.europa.eu/newsroom/simpl/redirection/item/940026)), og i oktober 2026 var integrasjonen i gang i alle seks ([Simpl, oktober 2026](https://ec.europa.eu/newsroom/simpl/items/959708/en)). Den er planlagt ferdig i oktober 2027 ([faktaark for Simpl-Live](https://simpl-programme.ec.europa.eu/system/files/2026-05/Factsheet_Simpl-Live_A4%2016.pdf)).
+- **Wave 2:** Forstudiene er ferdige, og konklusjonene ble publisert i juni 2026 ([dokumentbiblioteket](https://simpl-programme.ec.europa.eu/topic/simpl-live-document-library)). Vi har ikke funnet at implementeringen har startet.
+- **Utenfor Simpl-Live:** Flere utlysninger i Digital Europe ber om at løsningene skal være kompatible med Simpl, blant annet for genomdata, kulturarv og helse ([arbeidsprogrammet](https://www.ffg.at/sites/default/files/2026-05/DIGITAL%20WP%2025-27_Unofficial%20version%20with%20amendments.pdf)). Anbudet for driften av EOSC EU Node krever integrasjon med Simpl, «subject to availability» ([anbudet, 2026](https://digital-strategy.ec.europa.eu/en/funding/managed-services-eosc-eu-node-2026)).
+
+Vi har ikke funnet noen kilde som sier at Simpl-Open er i operativ drift i et data space ennå.
+
+*Vår vurdering:* Simpl er fortsatt i en tidlig fase. Det betyr at norske aktører kan være med og forme hvordan løsningen tas i bruk, og at kravene om Simpl-kompatibilitet i Digital Europe allerede gjør Simpl relevant for norske deltakere i slike prosjekter.
 
 #### Modenhet og framdrift
 
-*Kommer.* Stikkord: hva som er på plass i Simpl-Open 4.x, og hva som kommer i 5.0. Framdriften i programmet, også erfaringene fra første runde med kravspesifikasjon.
+Simpl-Open kommer i jevnlige versjoner: proof of concept i juli 2024, MVP i januar 2025, versjon 4.0 i juli 2026 og 4.1 i november 2026. Versjon 5.0 er planlagt til 4. kvartal 2026 (se [Simpl-Open](../simpl-open/)). Grunnleggende styring har vært med siden MVP, mens forvaltning og håndheving av kontrakter, policyer og samtykke kommer i 5.0.
+
+Framdriften har vært langsommere enn først planlagt. I 2023 skulle MVP komme senest ved utgangen av 2024 ([Kommisjonen, oktober 2023](https://digital-strategy.ec.europa.eu/en/node/10891/printable/pdf)). Den kom 30. januar 2025 ([Simpl-Open-veikartet, mai 2025](https://simpl-programme.ec.europa.eu/system/files/2025-05/Simpl-Open%20Roadmap%20May%20Update%20and%20June%20Release%20Details%202025.pdf)). Simpl-Labs var i mars 2026 varslet til høsten 2026, mens DSSC i oktober 2026 omtalte interoperabilitetstesting i Labs som noe som kommer i 2027 (se [Simpl-Labs](../simpl-labs/)).
+
+Programmet er videreført med 52,9 millioner euro for 2025–2027 ([arbeidsprogrammet](https://www.ffg.at/sites/default/files/2026-05/DIGITAL%20WP%2025-27_Unofficial%20version%20with%20amendments.pdf), s. 31–32).
 
 #### Kritikk
 

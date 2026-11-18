@@ -20,7 +20,7 @@ Status information on these pages is as of 16 November 2026 and comes from the s
 {{< kort tittel="Simpl-Open" ikon="code" lenke="../simpl-open/" etikett="Status November 2026" status="Version 4.0 was released in July 2026 and 4.1 in November 2026. Version 5.0 is planned." >}}
 Open source (EUPL 1.2) with modular components for data sharing in data spaces.
 {{< /kort >}}
-{{< kort tittel="Simpl-Labs" ikon="flask" lenke="../simpl-labs/" etikett="Status November 2026" status="Being built. The implementation phase started in February 2026." >}}
+{{< kort tittel="Simpl-Labs" ikon="flask" lenke="../simpl-labs/" etikett="Status November 2026" status="Being built. The implementation phase started in February 2026, and interoperability testing is expected in 2027." >}}
 A sandbox for trying out a data space, and a test environment for interoperability with Simpl-Open.
 {{< /kort >}}
 {{< kort tittel="Simpl-Live" ikon="rocket" lenke="../simpl-live/" etikett="Status November 2026" status="Six data spaces in wave 1 and five initiatives in wave 2. Implementation of wave 1 started in February 2026." >}}
