@@ -1,4 +1,5 @@
 ---
+id: 31003db8-7c1e-43b4-993f-66a005f55841
 title: About Simpl
 weight: 5
 
