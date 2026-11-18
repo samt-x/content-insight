@@ -34,6 +34,21 @@ Simpl-Open is released in versions named after European cities, roughly one per 
 
 Sources: [development status](https://simpl-programme.ec.europa.eu/dashboard/development-status), [installation guide](https://code.europa.eu/simpl/simpl-open/cross-cutting/documentation/installation-guide). The roadmap itself states that it is indicative and subject to change.
 
+#### Building blocks by release
+
+The roadmap organises the building blocks by the six dimensions of the capability map. The table shows what each release contains.
+
+| Dimension | Gdynia (4.0), released July 2026 | Hamburg (4.1), released November 2026 | Innsbruck (5.0), planned Q4 2026 |
+|---|---|---|---|
+| Administration | Monitoring of business events; personal landing page | Monitoring of the agents; support services and helpdesk; quality of service and alerts | Monitoring of data and application consumption; dashboards and reporting; monitoring of the infrastructure |
+| Data | Data orchestration; analytics and visualisation; schema management; vocabulary management | Data governance: lineage and data quality | Data streaming; assessment of metadata quality |
+| Governance | Resource descriptions in the catalogue (XFSC) | – | Audit; billing; consent at onboarding; contract establishment and management; policies in schemas; dashboard for the governance authority; contract clauses in resource descriptions; participants audit |
+| Integration | Bulk data transfer | Consumption of applications and AI models; publishing and searching for applications in the catalogue | Consumption across data spaces; contract enforcement; distributed processing; federated catalogue search across data spaces |
+| Infrastructure | Infrastructure catalogue services (scripts and templates) | Application deployment; federation between data spaces (Tier 2) | Cloud and edge; energy consumption; HPC; integration with platform services (PaaS) |
+| Security | Integration with an external identity provider | Consent for datasets with personal data; VPN; self-sovereign identity with a digital wallet (SSI Tier 1) | Incident response (CSIRT); DCAT-AP; VPN; self-sovereign identity (SSI Tier 2) |
+
+Sources: the roadmap for [Gdynia](https://simpl-programme.ec.europa.eu/development/development-status/simpl-open-roadmap-items-gdynia-4.0), [Hamburg](https://simpl-programme.ec.europa.eu/development/development-status/simpl-open-roadmap-items-hamburg-4.1) and [Innsbruck](https://simpl-programme.ec.europa.eu/development/development-status/simpl-open-roadmap-items-innsbruck-5.0), published January 2026 and read on 18 November 2026. The roadmap does not show the status of each item. A release being out therefore does not necessarily mean that every item in it has been fully delivered. Functionality from earlier releases (MVP to 3.x), such as onboarding of participants and conclusion of usage agreements, is not included in the table.
+
 From Q2 2026, the roadmap is extended with, among other things, AI/ML services, a link to the DOME marketplace and integration with EuroHPC's federation platform ([Juan Ferrer, March 2026](https://coe-dsc.nl/wp-content/uploads/2026/04/Ana-Ferer-180326_Simpl_DataSharingFestival.pdf)).
 
 ---
@@ -46,4 +61,4 @@ Everything is openly available at [code.europa.eu/simpl/simpl-open](https://code
 
 ### Assessment of maturity
 
-*This is our assessment, not the programme's.* Simpl-Open is delivered regularly and has a clear architecture, Basic governance has been included since the MVP: the authority role, onboarding of participants and conclusion of usage agreements. Management of contracts, policies, consent and audit, and contract enforcement, arrive only in 5.0 ([development status](https://simpl-programme.ec.europa.eu/dashboard/development-status)). We mainly know of use in Simpl-Live and in test environments. The software is therefore best suited for learning, testing and reusing components, and less suited as a finished platform for a new Norwegian data space today.
+*This is our assessment, not the programme's.* Simpl-Open is delivered regularly and has a clear architecture. Basic governance has been included since the MVP: the authority role, onboarding of participants and conclusion of usage agreements. Management of contracts, policies, consent and audit, and contract enforcement, arrive only in 5.0 ([development status](https://simpl-programme.ec.europa.eu/dashboard/development-status)). We mainly know of use in Simpl-Live and in test environments. The software is therefore best suited for learning, testing and reusing components, and less suited as a finished platform for a new Norwegian data space today.

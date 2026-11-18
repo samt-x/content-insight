@@ -34,6 +34,21 @@ Simpl-Open kommer i releaser oppkalt etter europeiske byer, omtrent én per kvar
 
 Kilder: [utviklingsstatus](https://simpl-programme.ec.europa.eu/dashboard/development-status), [installasjonsguiden](https://code.europa.eu/simpl/simpl-open/cross-cutting/documentation/installation-guide). Veikartet sier selv at det er veiledende og kan endres.
 
+#### Byggeklosser per release
+
+Veikartet ordner byggeklossene etter de seks dimensjonene i kapabilitetskartet. Tabellen viser hva hver release inneholder.
+
+| Dimensjon | Gdynia (4.0), utgitt juli 2026 | Hamburg (4.1), utgitt november 2026 | Innsbruck (5.0), planlagt 4. kvartal 2026 |
+|---|---|---|---|
+| Administrasjon | Overvåking av forretningshendelser; personlig startside | Overvåking av agentene; støttetjenester og brukerstøtte; tjenestekvalitet og varsler | Overvåking av data- og applikasjonsbruk; dashbord og rapportering; overvåking av infrastrukturen |
+| Data | Orkestrering av databehandling; analyse og visualisering; skjemahåndtering; vokabularhåndtering | Datastyring: sporing av opphav (lineage) og datakvalitet | Datastrømming; vurdering av metadatakvalitet |
+| Styring | Ressursbeskrivelser i katalogen (XFSC) | – | Revisjon; fakturering; samtykke ved opptak; inngåelse og forvaltning av kontrakter; policyer i skjema; dashbord for styringsmyndigheten; kontraktsvilkår i ressursbeskrivelser; revisjon av deltakere |
+| Integrasjon | Overføring av store datamengder | Bruk av applikasjoner og AI-modeller; publisering og søk etter applikasjoner i katalogen | Bruk på tvers av data spaces; håndheving av kontrakter; distribuert prosessering; føderert katalogsøk på tvers av data spaces |
+| Infrastruktur | Katalogtjenester for infrastruktur (skript og maler) | Utrulling av applikasjoner; føderasjon mellom data spaces (Tier 2) | Sky og edge; energiforbruk; HPC; integrasjon med plattformtjenester (PaaS) |
+| Sikkerhet | Kobling til ekstern identitetsleverandør | Samtykke for datasett med personopplysninger; VPN; selvstyrt identitet med digital lommebok (SSI Tier 1) | Hendelseshåndtering (CSIRT); DCAT-AP; VPN; selvstyrt identitet (SSI Tier 2) |
+
+Kilder: veikartet for [Gdynia](https://simpl-programme.ec.europa.eu/development/development-status/simpl-open-roadmap-items-gdynia-4.0), [Hamburg](https://simpl-programme.ec.europa.eu/development/development-status/simpl-open-roadmap-items-hamburg-4.1) og [Innsbruck](https://simpl-programme.ec.europa.eu/development/development-status/simpl-open-roadmap-items-innsbruck-5.0), publisert januar 2026 og lest 18. november 2026. Veikartet viser ikke status for hvert element. At en release er utgitt, betyr derfor ikke nødvendigvis at alle elementene i den er levert fullt ut. Funksjonalitet fra tidligere releaser (MVP til 3.x), som opptak av deltakere og inngåelse av bruksavtaler, er ikke med i tabellen.
+
 Fra 2. kvartal 2026 utvides veikartet blant annet med AI/ML-tjenester, kobling til markedsplassen DOME og integrasjon med EuroHPCs føderasjonsplattform ([Juan Ferrer, mars 2026](https://coe-dsc.nl/wp-content/uploads/2026/04/Ana-Ferer-180326_Simpl_DataSharingFestival.pdf)).
 
 ---
@@ -46,4 +61,4 @@ Alt ligger åpent på [code.europa.eu/simpl/simpl-open](https://code.europa.eu/s
 
 ### Vurdering av modenhet
 
-*Dette er vår vurdering, ikke programmets.* Simpl-Open leveres jevnlig og har en tydelig arkitektur, Grunnleggende styring har vært med siden MVP: myndighetsrollen, opptak av deltakere og inngåelse av bruksavtaler. Forvaltning av kontrakter, policyer, samtykke og revisjon, og håndheving av kontrakter, kommer først i 5.0 ([utviklingsstatus](https://simpl-programme.ec.europa.eu/dashboard/development-status)). Vi kjenner i hovedsak til bruk i Simpl-Live og i testmiljøer. Programvaren er derfor best egnet til å lære, teste og gjenbruke komponenter, og mindre egnet som ferdig plattform for et nytt norsk data space i dag.
+*Dette er vår vurdering, ikke programmets.* Simpl-Open leveres jevnlig og har en tydelig arkitektur. Grunnleggende styring har vært med siden MVP: myndighetsrollen, opptak av deltakere og inngåelse av bruksavtaler. Forvaltning av kontrakter, policyer, samtykke og revisjon, og håndheving av kontrakter, kommer først i 5.0 ([utviklingsstatus](https://simpl-programme.ec.europa.eu/dashboard/development-status)). Vi kjenner i hovedsak til bruk i Simpl-Live og i testmiljøer. Programvaren er derfor best egnet til å lære, teste og gjenbruke komponenter, og mindre egnet som ferdig plattform for et nytt norsk data space i dag.
