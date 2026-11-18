@@ -16,8 +16,8 @@ Simpl-Live takes in data spaces in waves.
 
 | Wave | Data spaces and initiatives | Status |
 |---|---|---|
-| Wave 1 | Public procurement (PPDS), secondary use of health data (EHDS2), language (LDS), European Open Science Cloud (EOSC), Destination Earth (DestinE), Smart Communities (SCDS) | The feasibility studies were completed in 2024. Implementation started on 26 February 2026 |
-| Wave 2 | Energy (CEEDS), agriculture (CEADS), mobility (EMDS), Green Deal (GDDS), the EuroCloud initiative | Feasibility studies from 2025. The second study, with EuroCloud and ten member states, was completed in March 2026 |
+| Wave 1 | Public procurement (PPDS), secondary use of health data (EHDS2), language (LDS), European Open Science Cloud (EOSC), Destination Earth (DestinE), Smart Communities (SCDS) | The feasibility studies were completed in 2024. Implementation started in February 2026 |
+| Wave 2 | Energy (CEEDS), agriculture (CEADS), mobility (EMDS), Green Deal (GDDS), the EuroCloud initiative | Feasibility studies from 2025. The second study, with EuroCloud and ten member states, was being finalised in March 2026. The conclusions were published on 5 June 2026 ([document library](https://simpl-programme.ec.europa.eu/topic/simpl-live-document-library)) |
 
 Sources: [Simpl-Live](https://simpl-programme.ec.europa.eu/programme/simpl-live), [Ana Juan Ferrer (European Commission), March 2026](https://coe-dsc.nl/wp-content/uploads/2026/04/Ana-Ferer-180326_Simpl_DataSharingFestival.pdf), [consolidated feasibility study report for wave 1](https://simpl-programme.ec.europa.eu/system/files/2025-06/Simpl-Live-Feasibility-Study-Report-%28Consolidated%29_Simpl_20250328_V1.2%28A%29.pdf).
 

@@ -46,4 +46,4 @@ Alt ligger åpent på [code.europa.eu/simpl/simpl-open](https://code.europa.eu/s
 
 ### Vurdering av modenhet
 
-*Dette er vår vurdering, ikke programmets.* Simpl-Open leveres jevnlig og har en tydelig arkitektur, men de sentrale styringsfunksjonene (kontrakter, samtykke, policyhåndheving) kommer først i 5.0. Vi kjenner i hovedsak til bruk i Simpl-Live og i testmiljøer. Programvaren er derfor best egnet til å lære, teste og gjenbruke komponenter, og mindre egnet som ferdig plattform for et nytt norsk data space i dag.
+*Dette er vår vurdering, ikke programmets.* Simpl-Open leveres jevnlig og har en tydelig arkitektur, Grunnleggende styring har vært med siden MVP: myndighetsrollen, opptak av deltakere og inngåelse av bruksavtaler. Forvaltning av kontrakter, policyer, samtykke og revisjon, og håndheving av kontrakter, kommer først i 5.0 ([utviklingsstatus](https://simpl-programme.ec.europa.eu/dashboard/development-status)). Vi kjenner i hovedsak til bruk i Simpl-Live og i testmiljøer. Programvaren er derfor best egnet til å lære, teste og gjenbruke komponenter, og mindre egnet som ferdig plattform for et nytt norsk data space i dag.
