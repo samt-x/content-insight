@@ -38,7 +38,18 @@ The programme divides implementation into five steps: review of requirements and
 
 Source: [Simpl-Live wave 1, milestone report](https://simpl-programme.ec.europa.eu/programme/simpl-live/wave-1), last updated 24 August 2026. The status as of November 2026 may have moved on.
 
-As of August 2026, then, none of the wave 1 initiatives had reached acceptance or operational deployment. Other initiatives may have adopted Simpl-Open without being part of Simpl-Live.
+As of August 2026, then, none of the wave 1 initiatives had reached acceptance or operational deployment.
+
+---
+
+### Testing outside Simpl-Live
+
+Some are adopting Simpl-Open on their own, outside Simpl-Live. Two examples come from the pilots in DS4SSCC, which is building the data space for smart communities:
+
+- **Helsinki:** Forum Virium Helsinki set up Simpl-Open (version 3.0.4) in a cloud service from January 2026, in the Traffic Flow Data Space pilot. On 11 June 2026 the whole flow for onboarding new participants worked, from application to approval. The repository also documents many problems along the way ([the pilot's timeline on GitHub](https://github.com/ForumViriumHelsinki/traffic_flow_data_space/blob/main/doc/simpl-eval-cloud/overview/deployment-timeline.md)).
+- **Valencia:** The NEXCITY pilot (Valencia and Rotterdam, August–October 2026) states that Valencia "operates a live SIMPL node" ([DS4SSCC, NEXCITY](https://www.ds4sscc.eu/nexcity)). *This is the pilot's own statement, and we have not been able to verify it.*
+
+There may be more such examples that we do not know of.
 
 ---
 

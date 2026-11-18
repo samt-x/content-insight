@@ -88,7 +88,7 @@ Simpl-Live omfatter 11 data spaces og initiativer, seks i wave 1 og fem i wave 2
 - **Wave 2:** Forstudiene er ferdige, og konklusjonene ble publisert i juni 2026 ([dokumentbiblioteket](https://simpl-programme.ec.europa.eu/topic/simpl-live-document-library)). Vi har ikke funnet at implementeringen har startet.
 - **Utenfor Simpl-Live:** Flere utlysninger i Digital Europe ber om at løsningene skal være kompatible med Simpl, blant annet for genomdata, kulturarv og helse ([arbeidsprogrammet](https://www.ffg.at/sites/default/files/2026-05/DIGITAL%20WP%2025-27_Unofficial%20version%20with%20amendments.pdf)). Anbudet for driften av EOSC EU Node krever integrasjon med Simpl, «subject to availability» ([anbudet, 2026](https://digital-strategy.ec.europa.eu/en/funding/managed-services-eosc-eu-node-2026)).
 
-Vi har ikke funnet noen kilde som sier at Simpl-Open er i operativ drift i et data space ennå.
+Utenfor Simpl-Live har pilotene for smarte samfunn testet Simpl-Open på egen hånd. Én av dem oppgir selv at Valencia har en Simpl-node i drift, men det har vi ikke kunnet etterprøve (se [Uttesting utenfor Simpl-Live](../simpl-live/#uttesting-utenfor-simpl-live)). Ellers har vi ikke funnet noen kilde som sier at Simpl-Open er i operativ drift i et data space ennå.
 
 *Vår vurdering:* Simpl er fortsatt i en tidlig fase. Det betyr at norske aktører kan være med og forme hvordan løsningen tas i bruk, og at kravene om Simpl-kompatibilitet i Digital Europe allerede gjør Simpl relevant for norske deltakere i slike prosjekter.
 
