@@ -1,11 +1,14 @@
 ---
 id: e99c3bf9-6c4d-4ebf-bd9a-db18df23dd38
 title: Relevance for Norway
-weight: 40
+weight: 60
+status: In progress
 lastmod: 2026-11-18T20:33:26+01:00
 last_editor: Erik Hagen
 
 ---
+{{< warning >}}◐ <strong>Work in progress.</strong> This page is being rewritten and has not been fully assessed. It should not be used as a basis yet.{{< /warning >}}
+
 *Why should Norwegian providers of shared national solutions and sector solutions, and the Norwegian Armed Forces, keep an eye on Simpl? This page brings together the arguments, and also the most important objections.*
 
 The page is mainly a professional assessment. Factual statements are sourced. The rest is our assessment.

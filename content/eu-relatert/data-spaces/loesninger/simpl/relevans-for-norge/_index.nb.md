@@ -1,11 +1,14 @@
 ---
 id: e99c3bf9-6c4d-4ebf-bd9a-db18df23dd38
 title: Relevans for Norge
-weight: 40
+weight: 60
+status: Pågår
 lastmod: 2026-11-18T20:33:26+01:00
 last_editor: Erik Hagen
 
 ---
+{{< warning >}}◐ <strong>I arbeid.</strong> Denne siden skrives om og er ikke ferdig vurdert. Den bør ikke brukes som grunnlag ennå.{{< /warning >}}
+
 *Hvorfor bør norske leverandører av fellesløsninger og sektorløsninger, og Forsvaret, følge med på Simpl? Denne siden samler argumentene, og også de viktigste innvendingene.*
 
 Siden er i hovedsak en faglig vurdering. Faktaopplysninger har kildehenvisning. Resten er våre vurderinger.
