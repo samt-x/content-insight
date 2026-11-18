@@ -2,7 +2,7 @@
 id: e99c3bf9-6c4d-4ebf-bd9a-db18df23dd38
 title: Relevans for Norge
 weight: 40
-lastmod: 2026-11-17T00:40:21+01:00
+lastmod: 2026-11-18T20:33:26+01:00
 last_editor: Erik Hagen
 
 ---
