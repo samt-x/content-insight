@@ -21,7 +21,24 @@ Simpl-Live tar inn data spaces i waves (bølger).
 
 Kilder: [Simpl-Live](https://simpl-programme.ec.europa.eu/programme/simpl-live), [Ana Juan Ferrer (Europakommisjonen), mars 2026](https://coe-dsc.nl/wp-content/uploads/2026/04/Ana-Ferer-180326_Simpl_DataSharingFestival.pdf), [konsolidert forstudierapport for wave 1](https://simpl-programme.ec.europa.eu/system/files/2025-06/Simpl-Live-Feasibility-Study-Report-%28Consolidated%29_Simpl_20250328_V1.2%28A%29.pdf).
 
-Kildene skiller ikke tydelig mellom hva som er i drift og hva som er under arbeid. Vi har ikke funnet noen offentlig oversikt over hvilke data spaces som faktisk kjører Simpl-Open i produksjon per november 2026. Andre initiativer kan også ha valgt Simpl uten å være med i Simpl-Live.
+---
+
+### Status for wave 1 per initiativ
+
+Programmet deler gjennomføringen i fem trinn: revisjon av krav og scenarier, teknisk validering, akseptanse, operativ drift og vedlikehold ([Simpl-programmet, august 2026](https://simpl-programme.ec.europa.eu/system/files/2026-08/Simpl_Live_Implementation_Phase_Visual.pdf)). Milepælsrapporten for wave 1 viser hvor langt hvert initiativ har kommet.
+
+| Initiativ | Revisjon | Teknisk validering | Akseptanse | Drift | Vedlikehold |
+|---|---|---|---|---|---|
+| Språk (LDS) | Ferdig | Pågår | Ikke startet | Ikke startet | Ikke startet |
+| Offentlige anskaffelser (PPDS) | Pågår | Ikke startet | Ikke startet | Ikke startet | Ikke startet |
+| European Open Science Cloud (EOSC) | Pågår | Ikke startet | Ikke aktuelt | Ikke aktuelt | Ikke aktuelt |
+| Destination Earth (DestinE) | Pågår | Ikke startet | Ikke startet | Ikke aktuelt | Ikke aktuelt |
+| Smart Communities (SCDS) | Pågår | Ikke startet | Ikke startet | Ikke startet | Ikke startet |
+| Helsedata til sekundærbruk (EHDS2) | Pågår | Ikke startet | Ikke startet | Ikke startet | Ikke startet |
+
+Kilde: [Simpl-Live wave 1, milepælsrapport](https://simpl-programme.ec.europa.eu/programme/simpl-live/wave-1), sist oppdatert 24. august 2026. Status per november 2026 kan være kommet lenger.
+
+Per august 2026 var altså ingen av initiativene i wave 1 kommet til akseptanse eller drift. Andre initiativer kan ha tatt i bruk Simpl-Open uten å være med i Simpl-Live.
 
 ---
 

@@ -21,7 +21,24 @@ Simpl-Live takes in data spaces in waves.
 
 Sources: [Simpl-Live](https://simpl-programme.ec.europa.eu/programme/simpl-live), [Ana Juan Ferrer (European Commission), March 2026](https://coe-dsc.nl/wp-content/uploads/2026/04/Ana-Ferer-180326_Simpl_DataSharingFestival.pdf), [consolidated feasibility study report for wave 1](https://simpl-programme.ec.europa.eu/system/files/2025-06/Simpl-Live-Feasibility-Study-Report-%28Consolidated%29_Simpl_20250328_V1.2%28A%29.pdf).
 
-The sources do not clearly distinguish between what is in operation and what is in progress. We have found no public overview of which data spaces actually run Simpl-Open in production as of November 2026. Other initiatives may also have chosen Simpl without being part of Simpl-Live.
+---
+
+### Status of wave 1 by initiative
+
+The programme divides implementation into five steps: review of requirements and scenarios, technical validation, acceptance, operational deployment and maintenance ([the Simpl programme, August 2026](https://simpl-programme.ec.europa.eu/system/files/2026-08/Simpl_Live_Implementation_Phase_Visual.pdf)). The milestone report for wave 1 shows how far each initiative has come.
+
+| Initiative | Revision | Technical validation | Acceptance | Operational deployment | Maintenance |
+|---|---|---|---|---|---|
+| Language (LDS) | Done | Ongoing | Not started | Not started | Not started |
+| Public procurement (PPDS) | Ongoing | Not started | Not started | Not started | Not started |
+| European Open Science Cloud (EOSC) | Ongoing | Not started | N/A | N/A | N/A |
+| Destination Earth (DestinE) | Ongoing | Not started | Not started | N/A | N/A |
+| Smart Communities (SCDS) | Ongoing | Not started | Not started | Not started | Not started |
+| Secondary use of health data (EHDS2) | Ongoing | Not started | Not started | Not started | Not started |
+
+Source: [Simpl-Live wave 1, milestone report](https://simpl-programme.ec.europa.eu/programme/simpl-live/wave-1), last updated 24 August 2026. The status as of November 2026 may have moved on.
+
+As of August 2026, then, none of the wave 1 initiatives had reached acceptance or operational deployment. Other initiatives may have adopted Simpl-Open without being part of Simpl-Live.
 
 ---
 
