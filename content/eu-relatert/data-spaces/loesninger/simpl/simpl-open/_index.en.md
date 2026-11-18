@@ -2,7 +2,7 @@
 id: 66e10fc5-050e-49ac-a195-fe6459699649
 title: Simpl-Open
 weight: 10
-lastmod: 2026-11-18T22:22:22+01:00
+lastmod: 2026-11-18T23:56:54+01:00
 last_editor: Erik Hagen
 
 ---
