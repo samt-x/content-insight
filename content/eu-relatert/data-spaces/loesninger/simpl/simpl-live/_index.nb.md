@@ -2,7 +2,7 @@
 id: ee44d70e-c65c-4e84-9baa-61332218dc2f
 title: Simpl-Live
 weight: 30
-lastmod: 2026-11-18T23:42:27+01:00
+lastmod: 2026-11-18T23:46:23+01:00
 last_editor: Erik Hagen
 
 ---
