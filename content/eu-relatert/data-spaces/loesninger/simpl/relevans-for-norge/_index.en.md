@@ -96,7 +96,7 @@ Outside Simpl-Live, the smart communities pilots have tested Simpl-Open on their
 
 {{< i-arbeid >}}
 
-Simpl-Open is released regularly: a proof of concept in July 2024, the MVP in January 2025, version 4.0 in July 2026 and 4.1 in November 2026. Version 5.0 is planned for Q4 2026 (see [Simpl-Open](../simpl-open/)). Basic governance has been included since the MVP, while management and enforcement of contracts, policies and consent arrive in 5.0.
+Simpl-Open is released regularly: a proof of concept in July 2024, the MVP in January 2025, version 4.0 in July 2026 and 4.1 in November 2026. Version 5.0 is planned for Q4 2026 (see [Simpl-Open](../simpl-open/)). Basic governance has been included since the MVP, while management and enforcement of contracts, policies and consent arrive in 5.0. Several of these governance functions have been moved back by about a year since the 2025 roadmaps. Consent, for example, was first planned from Q3 2025 (see [Changes to the plan over time](../simpl-open/#changes-to-the-plan-over-time)).
 
 Progress has been slower than first planned. In 2023 the MVP was to arrive no later than the end of 2024 ([the Commission, October 2023](https://digital-strategy.ec.europa.eu/en/node/10891/printable/pdf)). It arrived on 30 January 2025 ([Simpl-Open roadmap, May 2025](https://simpl-programme.ec.europa.eu/system/files/2025-05/Simpl-Open%20Roadmap%20May%20Update%20and%20June%20Release%20Details%202025.pdf)). In March 2026 Simpl-Labs was announced for autumn 2026, while in October 2026 DSSC described interoperability testing in Labs as coming in 2027 (see [Simpl-Labs](../simpl-labs/)).
 

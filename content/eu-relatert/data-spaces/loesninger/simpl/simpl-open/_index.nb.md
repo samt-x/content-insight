@@ -53,6 +53,20 @@ Det nærmeste vi har funnet en status underveis, er det programmet viste fram p�
 
 Ved siden av releasene utvikles tre utvidelser (Simpl-Open Extensions): AI/ML med kobling til EuroHPCs føderasjonsplattform, kobling av katalogen til markedsplassen DOME, og inntekter for styringsmyndigheten (monetisation). Fellesskapet kunne gi innspill til dem fram til 16. mars 2026, og i oktober var de under arbeid ([Juan Ferrer, mars 2026](https://coe-dsc.nl/wp-content/uploads/2026/04/Ana-Ferer-180326_Simpl_DataSharingFestival.pdf), [Coffee with Simpl 4](https://simpl-programme.ec.europa.eu/news/coffee-simpl-4th-edition-recap)).
 
+#### Endringer i planen over tid
+
+Programmet har publisert veikartet i flere versjoner. Når vi sammenligner dem, ser vi at flere av styringsfunksjonene er skjøvet omtrent ett år:
+
+| Element | Veikart februar 2025 | Veikart mai 2025 | Veikart januar 2026 (gjeldende) |
+|---|---|---|---|
+| Samtykke ved opptak (Consent extensions to onboarding) | 3.–4. kvartal 2025 | 3.–4. kvartal 2025 | Innsbruck, 4. kvartal 2026 |
+| Samtykkehåndtering (Consent management) | 3. kvartal 2025 – 1. kvartal 2026 | 4. kvartal 2025 – 1. kvartal 2026 | Innsbruck, 4. kvartal 2026 |
+| Policyer i skjema (Define policies in schema) | 1.–3. kvartal 2025 | 1.–3. kvartal 2025 | Innsbruck, 4. kvartal 2026 |
+| Revisjon (Audit) | 4. kvartal 2025 – 1. kvartal 2026 | 4. kvartal 2025 – 1. kvartal 2026 | Innsbruck, 4. kvartal 2026 |
+| Håndheving av kontrakter (Contract enforcement) | 4. kvartal 2025 – 2. kvartal 2026 | 4. kvartal 2025 – 2. kvartal 2026 | Innsbruck, 4. kvartal 2026 |
+
+Kilder: veikartene i Simpl-forumet fra [februar 2025](https://simpl-programme.ec.europa.eu/group/simpl-forum-0/discussion/simpl-open-development-roadmap-2025-2026) og [mai 2025](https://simpl-programme.ec.europa.eu/group/simpl-forum-0/discussion/simpl-open-roadmap-update-may-2025), og [utviklingsstatus](https://simpl-programme.ec.europa.eu/documentation/development-status). Kvartalene er lest av tidslinjene og er omtrentlige. Veikartet sier selv at det er veiledende og kan endres etter innspill fra fellesskapet og funn i Simpl-Live, så endringene kan også skyldes nye prioriteringer.
+
 ---
 
 ### Hvor koden og dokumentasjonen ligger

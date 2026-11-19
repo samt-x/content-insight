@@ -96,7 +96,7 @@ Utenfor Simpl-Live har pilotene for smarte samfunn testet Simpl-Open på egen h�
 
 {{< i-arbeid >}}
 
-Simpl-Open kommer i jevnlige versjoner: proof of concept i juli 2024, MVP i januar 2025, versjon 4.0 i juli 2026 og 4.1 i november 2026. Versjon 5.0 er planlagt til 4. kvartal 2026 (se [Simpl-Open](../simpl-open/)). Grunnleggende styring har vært med siden MVP, mens forvaltning og håndheving av kontrakter, policyer og samtykke kommer i 5.0.
+Simpl-Open kommer i jevnlige versjoner: proof of concept i juli 2024, MVP i januar 2025, versjon 4.0 i juli 2026 og 4.1 i november 2026. Versjon 5.0 er planlagt til 4. kvartal 2026 (se [Simpl-Open](../simpl-open/)). Grunnleggende styring har vært med siden MVP, mens forvaltning og håndheving av kontrakter, policyer og samtykke kommer i 5.0. Flere av disse styringsfunksjonene er skjøvet omtrent ett år siden veikartene fra 2025. Samtykke var for eksempel først planlagt fra 3. kvartal 2025 (se [Endringer i planen over tid](../simpl-open/#endringer-i-planen-over-tid)).
 
 Framdriften har vært langsommere enn først planlagt. I 2023 skulle MVP komme senest ved utgangen av 2024 ([Kommisjonen, oktober 2023](https://digital-strategy.ec.europa.eu/en/node/10891/printable/pdf)). Den kom 30. januar 2025 ([Simpl-Open-veikartet, mai 2025](https://simpl-programme.ec.europa.eu/system/files/2025-05/Simpl-Open%20Roadmap%20May%20Update%20and%20June%20Release%20Details%202025.pdf)). Simpl-Labs var i mars 2026 varslet til høsten 2026, mens DSSC i oktober 2026 omtalte interoperabilitetstesting i Labs som noe som kommer i 2027 (se [Simpl-Labs](../simpl-labs/)).
 

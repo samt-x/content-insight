@@ -53,6 +53,20 @@ The closest we have found to a status along the way is what the programme presen
 
 Alongside the releases, three extensions are being developed (Simpl-Open Extensions): AI/ML with a link to EuroHPC's federation platform, catalogue integration with the DOME marketplace, and monetisation for the governance authority. The community could give input on them until 16 March 2026, and in October they were in progress ([Juan Ferrer, March 2026](https://coe-dsc.nl/wp-content/uploads/2026/04/Ana-Ferer-180326_Simpl_DataSharingFestival.pdf), [Coffee with Simpl 4](https://simpl-programme.ec.europa.eu/news/coffee-simpl-4th-edition-recap)).
 
+#### Changes to the plan over time
+
+The programme has published the roadmap in several versions. Comparing them shows that several of the governance functions have been moved back by about a year:
+
+| Item | Roadmap February 2025 | Roadmap May 2025 | Roadmap January 2026 (current) |
+|---|---|---|---|
+| Consent extensions to onboarding | Q3–Q4 2025 | Q3–Q4 2025 | Innsbruck, Q4 2026 |
+| Consent management | Q3 2025 – Q1 2026 | Q4 2025 – Q1 2026 | Innsbruck, Q4 2026 |
+| Define policies in schema | Q1–Q3 2025 | Q1–Q3 2025 | Innsbruck, Q4 2026 |
+| Audit | Q4 2025 – Q1 2026 | Q4 2025 – Q1 2026 | Innsbruck, Q4 2026 |
+| Contract enforcement | Q4 2025 – Q2 2026 | Q4 2025 – Q2 2026 | Innsbruck, Q4 2026 |
+
+Sources: the roadmaps in the Simpl forum from [February 2025](https://simpl-programme.ec.europa.eu/group/simpl-forum-0/discussion/simpl-open-development-roadmap-2025-2026) and [May 2025](https://simpl-programme.ec.europa.eu/group/simpl-forum-0/discussion/simpl-open-roadmap-update-may-2025), and [development status](https://simpl-programme.ec.europa.eu/documentation/development-status). The quarters are read from the timelines and are approximate. The roadmap itself states that it is indicative and may change based on input from the community and findings in Simpl-Live, so the changes may also reflect new priorities.
+
 ---
 
 ### Where the code and documentation are
