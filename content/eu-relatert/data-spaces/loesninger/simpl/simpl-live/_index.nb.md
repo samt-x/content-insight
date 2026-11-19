@@ -40,6 +40,8 @@ Kilde: [Simpl-Live wave 1, milepælsrapport](https://simpl-programme.ec.europa.e
 
 Per august 2026 var altså ingen av initiativene i wave 1 kommet til akseptanse eller drift.
 
+Senere oppsummeringer fra programmet gir noen holdepunkter. I juli 2026 var integrasjonen mellom språk-data spacet (LDS) og Simpl-Open i gang som en proof of concept, gjennom en gateway som ikke griper inn i LDS' egen drift ([Coffee with Simpl 3](https://simpl-programme.ec.europa.eu/news/coffee-simpl-3rd-session-recap)). I oktober arbeidet programmet med å integrere Simpl-Open med EOSC ([Coffee with Simpl 4](https://simpl-programme.ec.europa.eu/news/coffee-simpl-4th-edition-recap)).
+
 ---
 
 ### Uttesting utenfor Simpl-Live

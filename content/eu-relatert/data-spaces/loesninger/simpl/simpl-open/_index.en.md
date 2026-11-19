@@ -28,15 +28,15 @@ Simpl-Open is released in versions named after European cities, roughly one per 
 
 | Release | Content (main features) | Status |
 |---|---|---|
-| Gdynia (4.0) | Resource and vocabulary management, access control, provisioning, observability, data processing | Released July 2026 (the installation guide was tagged v4.0.0 on 7 July 2026) |
-| Hamburg (4.1) | Federation, credential management, resource discovery, data governance, application and data sharing, notifications | The installation guide was tagged v4.1.0 on 5 November 2026. That this is the Hamburg release is our interpretation |
+| Gdynia (4.0) | Resource and vocabulary management, access control, provisioning, observability, data processing | Released 6 July 2026 (the installation guide was tagged v4.0.0 on 7 July 2026) |
+| Hamburg (4.1) | Federation, credential management, resource discovery, data governance, application and data sharing, notifications | Planned for the second half of October 2026. The installation guide was tagged v4.1.0 on 5 November 2026, so Hamburg was probably released slightly late. The programme has not announced it |
 | Innsbruck (5.0) | Advanced governance (audit, participants, policies, contracts, consent), contract enforcement, HPC | Planned, originally for Q4 2026 |
 
-Sources: [development status](https://simpl-programme.ec.europa.eu/dashboard/development-status), [installation guide](https://code.europa.eu/simpl/simpl-open/cross-cutting/documentation/installation-guide). The roadmap itself states that it is indicative and subject to change.
+Sources: [development status](https://simpl-programme.ec.europa.eu/documentation/development-status), [Coffee with Simpl 3, July 2026](https://simpl-programme.ec.europa.eu/news/coffee-simpl-3rd-session-recap), [installation guide](https://code.europa.eu/simpl/simpl-open/cross-cutting/documentation/installation-guide). The roadmap itself states that it is indicative and subject to change.
 
 #### Building blocks by release
 
-The roadmap organises the building blocks by the six dimensions of the capability map. The table shows what each release contains.
+The roadmap organises the building blocks by the six dimensions of the capability map. On the [development status](https://simpl-programme.ec.europa.eu/documentation/development-status) page it is also shown as a timeline over Q2–Q4 2026, with one colour per dimension. The colours show the dimension, not the status. Gdynia has 10 items, Hamburg 12 and Innsbruck 27. The table shows what each release contains.
 
 | Dimension | Gdynia (4.0), released July 2026 | Hamburg (4.1), released November 2026 | Innsbruck (5.0), planned Q4 2026 |
 |---|---|---|---|
@@ -49,7 +49,9 @@ The roadmap organises the building blocks by the six dimensions of the capabilit
 
 Sources: the roadmap for [Gdynia](https://simpl-programme.ec.europa.eu/development/development-status/simpl-open-roadmap-items-gdynia-4.0), [Hamburg](https://simpl-programme.ec.europa.eu/development/development-status/simpl-open-roadmap-items-hamburg-4.1) and [Innsbruck](https://simpl-programme.ec.europa.eu/development/development-status/simpl-open-roadmap-items-innsbruck-5.0), published January 2026 and read on 18 November 2026. The roadmap does not show the status of each item. A release being out therefore does not necessarily mean that every item in it has been fully delivered. Functionality from earlier releases (MVP to 3.x), such as onboarding of participants and conclusion of usage agreements, is not included in the table.
 
-From Q2 2026, the roadmap is extended with, among other things, AI/ML services, a link to the DOME marketplace and integration with EuroHPC's federation platform ([Juan Ferrer, March 2026](https://coe-dsc.nl/wp-content/uploads/2026/04/Ana-Ferer-180326_Simpl_DataSharingFestival.pdf)).
+The closest we have found to a status along the way is what the programme presented at Coffee with Simpl on 1 October 2026: work on application publishing and discovery, monitoring, security, application deployment, support services, federation configuration and consent. All of these are Hamburg items, which were therefore in progress at the time ([Coffee with Simpl 4](https://simpl-programme.ec.europa.eu/news/coffee-simpl-4th-edition-recap)).
+
+Alongside the releases, three extensions are being developed (Simpl-Open Extensions): AI/ML with a link to EuroHPC's federation platform, catalogue integration with the DOME marketplace, and monetisation for the governance authority. The community could give input on them until 16 March 2026, and in October they were in progress ([Juan Ferrer, March 2026](https://coe-dsc.nl/wp-content/uploads/2026/04/Ana-Ferer-180326_Simpl_DataSharingFestival.pdf), [Coffee with Simpl 4](https://simpl-programme.ec.europa.eu/news/coffee-simpl-4th-edition-recap)).
 
 ---
 
@@ -61,4 +63,4 @@ Everything is openly available at [code.europa.eu/simpl/simpl-open](https://code
 
 ### Assessment of maturity
 
-*This is our assessment, not the programme's.* Simpl-Open is delivered regularly and has a clear architecture. Basic governance has been included since the MVP: the authority role, onboarding of participants and conclusion of usage agreements. Management of contracts, policies, consent and audit, and contract enforcement, arrive only in 5.0 ([development status](https://simpl-programme.ec.europa.eu/dashboard/development-status)). We mainly know of use in Simpl-Live and in test environments. The software is therefore best suited for learning, testing and reusing components, and less suited as a finished platform for a new Norwegian data space today.
+*This is our assessment, not the programme's.* Simpl-Open is delivered regularly and has a clear architecture. Basic governance has been included since the MVP: the authority role, onboarding of participants and conclusion of usage agreements. Management of contracts, policies, consent and audit, and contract enforcement, arrive only in 5.0 ([development status](https://simpl-programme.ec.europa.eu/documentation/development-status)). We mainly know of use in Simpl-Live and in test environments. The software is therefore best suited for learning, testing and reusing components, and less suited as a finished platform for a new Norwegian data space today.

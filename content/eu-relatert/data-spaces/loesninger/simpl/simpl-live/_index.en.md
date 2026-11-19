@@ -40,6 +40,8 @@ Source: [Simpl-Live wave 1, milestone report](https://simpl-programme.ec.europa.
 
 As of August 2026, then, none of the wave 1 initiatives had reached acceptance or operational deployment.
 
+Later summaries from the programme give some indications. In July 2026, the integration between the language data space (LDS) and Simpl-Open was under way as a proof of concept, through a gateway that does not interfere with LDS's own operation ([Coffee with Simpl 3](https://simpl-programme.ec.europa.eu/news/coffee-simpl-3rd-session-recap)). In October, the programme was working on integrating Simpl-Open with EOSC ([Coffee with Simpl 4](https://simpl-programme.ec.europa.eu/news/coffee-simpl-4th-edition-recap)).
+
 ---
 
 ### Testing outside Simpl-Live
