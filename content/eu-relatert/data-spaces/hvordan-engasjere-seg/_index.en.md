@@ -4,7 +4,7 @@ id: 320ceef7-a05f-4c8c-8dea-9c03d8ecf30a
 # id: auto-generated – copied values are overwritten automatically on push
 title: "How to get involved?"
 weight: 50
-lastmod: 2026-11-02T21:35:54+01:00
+lastmod: 2026-11-20T02:41:54+01:00
 last_editor: Erik Hagen
 
 ---

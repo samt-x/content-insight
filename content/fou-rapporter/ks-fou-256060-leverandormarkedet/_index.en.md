@@ -5,7 +5,7 @@ id: acb557dd-202d-4738-8f53-c310c734201b
 title: "KS R&D Report 256060 – The Supplier Market for Digital Solutions in the Municipal Sector"
 linkTitle: "KS R&D 256060 – Supplier Market"
 weight: 10
-lastmod: 2026-04-20T18:21:58+02:00
+lastmod: 2026-11-20T02:41:54+01:00
 last_editor: Erik Hagen
 
 ---
