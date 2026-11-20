@@ -1,6 +1,6 @@
 ---
 id: e99c3bf9-6c4d-4ebf-bd9a-db18df23dd38
-title: Relevance for Norway
+title: Relevance for Norwegian actors
 weight: 60
 status: In progress
 lastmod: 2026-11-19T21:50:44+01:00
