@@ -27,7 +27,7 @@ The different entry points are not mutually exclusive. A natural strategy may be
 
 ## Open opportunities now
 
-The DIGITAL programme is in its last two years, and several calls give Norwegian actors a concrete way into data spaces where Norway is currently weakly represented or not represented at all. The third round of calls opened on 21 April 2026 with an application deadline of 1 October 2026, and a fourth and final round is planned for the first to second quarter of 2027. The window for getting in through DIGITAL funding is therefore closing. The secretariat for the Digital Europe Programme in Norway is at Digdir (the Norwegian Digitalisation Agency) (digitaleuropa@digdir.no) and offers guidance.
+The DIGITAL programme is in its last two years, and several calls give Norwegian actors a concrete way into data spaces where Norway is currently weakly represented or not represented at all. The third round of calls opened on 21 April 2026 with an application deadline of 1 October 2026, and a fourth and final round is planned for the first to second quarter of 2027. The window for getting in through DIGITAL funding is therefore closing. The secretariat for the Digital Europe Programme in Norway is at Digdir, the Norwegian Digitalisation Agency (digitaleuropa@digdir.no), which offers guidance.
 
 Some particularly relevant calls for data spaces where Norway is currently not visible:
 

@@ -6,7 +6,7 @@ lastmod: 2026-11-20T02:16:30+01:00
 last_editor: Erik Hagen
 
 ---
-*Simpl is the European Commission's initiative to speed up the development of European data spaces. At its core is Simpl-Open, open source that puts the common standards and patterns for data sharing into practice. Simpl is not meant to be the only solution. The architecture is federated, and other solutions that follow the same standards should be able to work together with it.*
+*Simpl is the European Commission's initiative to speed up the development of European data spaces. At its core is Simpl-Open, open-source software that puts the common standards and patterns for data sharing into practice. Simpl is not meant to be the only solution. The architecture is federated, and other solutions that follow the same standards should be able to work together with it.*
 
 The programme has three parts: the Simpl-Open software, the Simpl-Labs test and sandbox environment, and Simpl-Live, which helps selected data spaces adopt the software.
 
@@ -18,7 +18,7 @@ Status information on these pages is as of 16 November 2026 and comes from the s
 
 {{< kortrad >}}
 {{< kort tittel="Simpl-Open" ikon="code" lenke="../simpl-open/" etikett="Status November 2026" status="Version 4.0 was released in July 2026 and 4.1 in November 2026. Version 5.0 is planned." >}}
-Open source (EUPL 1.2) with modular components for data sharing in data spaces.
+Open-source software (EUPL 1.2) with modular components for data sharing in data spaces.
 {{< /kort >}}
 {{< kort tittel="Simpl-Labs" ikon="flask" lenke="../simpl-labs/" etikett="Status November 2026" status="Being built. The implementation phase started in February 2026, and interoperability testing is expected in 2027." >}}
 A sandbox for trying out a data space, and a test environment for interoperability with Simpl-Open.
@@ -50,7 +50,7 @@ Simpl-Open is designed to work together with other solutions, not to replace the
 
 The Simpl programme itself says that initiatives can use individual components to build their own solutions, or use Simpl-Open as a base ([the Simpl programme](https://simpl-programme.ec.europa.eu/dashboard/about-simpl)). DSSC describes Simpl-Open as one option among several. [Simpl-Labs](../simpl-labs/) is also to test interoperability with data spaces that already exist.
 
-*Our assessment:* In practice, Simpl-Open works as a reference implementation. It shows how the standards fit together, and provides a common place to test against. For national solutions, the question is therefore not Simpl or our own solutions, but whether our own solutions work together with Simpl. See [Relevance for Norwegian actors](../relevans-for-norge/).
+*Our assessment:* In practice, Simpl-Open works as a reference implementation. It shows how the standards fit together, and provides a common place to test against. For national solutions, the question is therefore not whether to choose Simpl or build one's own, but whether one's own solutions work together with Simpl. See [Relevance for Norwegian actors](../relevans-for-norge/).
 
 ---
 

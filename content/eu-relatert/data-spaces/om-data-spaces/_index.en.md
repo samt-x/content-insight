@@ -7,4 +7,4 @@ last_editor: Erik Hagen
 
 ---
 
-A provisional description for now; see e.g. https://datadrevetinnovasjon.no/data-spaces-for-dummies/
+For a provisional description, see e.g. https://datadrevetinnovasjon.no/data-spaces-for-dummies/ (in Norwegian).

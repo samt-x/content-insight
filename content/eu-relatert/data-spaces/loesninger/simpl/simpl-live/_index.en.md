@@ -6,7 +6,7 @@ lastmod: 2026-11-19T21:41:03+01:00
 last_editor: Erik Hagen
 
 ---
-*Simpl-Live is the support for specific European data spaces that are to adopt Simpl-Open. Each initiative first gets a feasibility study with a tailored roadmap, and then help implementing Simpl-Open in operation.*
+*Simpl-Live is the support for specific European data spaces that are to adopt Simpl-Open. Each initiative first gets a feasibility study with a tailored roadmap, and then help putting Simpl-Open into operation.*
 
 ---
 
@@ -27,7 +27,7 @@ Sources: [Simpl-Live](https://simpl-programme.ec.europa.eu/programme/simpl-live)
 
 The programme divides implementation into five steps: review of requirements and scenarios, technical validation, acceptance, operational deployment and maintenance ([the Simpl programme, August 2026](https://simpl-programme.ec.europa.eu/system/files/2026-08/Simpl_Live_Implementation_Phase_Visual.pdf)). The milestone report for wave 1 shows how far each initiative has come.
 
-| Initiative | Revision | Technical validation | Acceptance | Operational deployment | Maintenance |
+| Initiative | Review | Technical validation | Acceptance | Operational deployment | Maintenance |
 |---|---|---|---|---|---|
 | Language (LDS) | Done | Ongoing | Not started | Not started | Not started |
 | Public procurement (PPDS) | Ongoing | Not started | Not started | Not started | Not started |

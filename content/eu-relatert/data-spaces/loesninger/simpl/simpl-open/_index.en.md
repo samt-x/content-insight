@@ -6,7 +6,7 @@ lastmod: 2026-11-19T21:50:44+01:00
 last_editor: Erik Hagen
 
 ---
-*Simpl-Open is the software in Simpl: open source with modular components that a data space can use to let participants find each other, agree on terms and share data in a controlled way.*
+*Simpl-Open is the software in Simpl: open-source software with modular components that a data space can use to let participants find each other, agree on terms and share data in a controlled way.*
 
 ---
 

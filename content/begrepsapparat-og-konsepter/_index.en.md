@@ -1,6 +1,6 @@
 ---
 id: 3614493d-c9a4-4b7f-a27f-a764854c1e8b
-title: Begrepsapparat og konsepter
+title: Terminology and concepts
 weight: 30
 lastmod: 2026-11-15T00:05:35+01:00
 last_editor: Erik Hagen
