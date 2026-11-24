@@ -16,7 +16,7 @@ last_editor: Erik Hagen
 3. **The window for influence is now.** Simpl is at an early stage. None of the initiatives in Simpl-Live had reached operational deployment in August 2026, and Simpl-Labs is being shaped now. The Simpl-Labs user group holds its kick-off meeting in Brussels on 9 December 2026, and Digdir is represented in it.
 4. **Norwegian solutions can reach further.** Simpl is federated: each participant keeps its own solutions as long as they follow the common standards. Norwegian shared solutions can thus become Norway's connection point to European data spaces.
 5. **Open source in a bigger picture.** Simpl-Open is part of the EU's investment in open source and digital commons. We can reuse components, contribute to further development, and test our own solutions against the alternatives: if ours are good, others can build on them; if there are better alternatives, we can join those instead.
-6. **The effort is small and flexible.** Participation in the user group is about feedback, testing and occasional meetings, adapted to each organisation's capacity. In return, we get early access to a common European test environment.
+6. **The Simpl-Labs user group is a low-cost first step.** According to the Simpl-Labs team, participation is about feedback, testing selected features and occasional meetings, adapted to each organisation's capacity (see [What participation involves](../simpl-labs/#what-participation-involves)). In return, participants get early access to a common European test environment. Participation does not commit anyone to adopting Simpl-Open.
 
 The sources are given in the chapters below.
 

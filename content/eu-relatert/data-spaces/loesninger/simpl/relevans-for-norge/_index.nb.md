@@ -16,7 +16,7 @@ last_editor: Erik Hagen
 3. **Vinduet for å påvirke er nå.** Simpl er i en tidlig fase. Ingen av initiativene i Simpl-Live var kommet til operativ drift i august 2026, og Simpl-Labs formes nå. Brukergruppen for Simpl-Labs har oppstartsmøte i Brussel 9. desember 2026, og Digdir er representert der.
 4. **Norske løsninger kan nå lenger.** Simpl er føderert: hver deltaker beholder sine egne løsninger så lenge de følger de felles standardene. Norske fellesløsninger kan dermed bli Norges tilkoblingspunkt til europeiske data spaces.
 5. **Åpen kildekode i et større bilde.** Simpl-Open er en del av EUs satsing på åpen kildekode og digitale fellesgoder. Vi kan gjenbruke komponenter, bidra til videreutviklingen, og prøve egne løsninger mot alternativene: er de gode, kan andre bygge videre på dem; finnes det bedre alternativer, kan vi heller slutte oss til dem.
-6. **Innsatsen er liten og fleksibel.** Deltakelse i brukergruppen handler om tilbakemeldinger, testing og møter av og til, tilpasset den enkeltes kapasitet. Til gjengjeld får vi tidlig tilgang til et felles europeisk testmiljø.
+6. **Brukergruppen for Simpl-Labs er et rimelig første steg.** Ifølge Simpl-Labs-teamet handler deltakelsen om tilbakemeldinger, testing av utvalgte funksjoner og møter av og til, tilpasset hver organisasjons kapasitet (se [Hva deltakelse innebærer](../simpl-labs/#hva-deltakelse-innebærer)). Til gjengjeld får deltakerne tidlig tilgang til et felles europeisk testmiljø. Deltakelsen forplikter ikke til å ta i bruk Simpl-Open.
 
 Kildene står i kapitlene under.
 
