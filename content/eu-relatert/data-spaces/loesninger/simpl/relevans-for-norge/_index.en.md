@@ -3,7 +3,7 @@ id: e99c3bf9-6c4d-4ebf-bd9a-db18df23dd38
 title: Relevance of Simpl for Norwegian digital infrastructure
 linkTitle: Relevance for Norwegian digital infrastructure
 weight: 60
-lastmod: 2026-11-25T00:13:03+01:00
+lastmod: 2026-11-25T00:23:09+01:00
 last_editor: Erik Hagen
 
 ---
