@@ -56,6 +56,6 @@ Ifølge Simpl-Labs-teamet (e-post til Digdir, november 2026) skal deltakelsen v�
 
 - Teste om norske fellesløsninger og sektorløsninger kan samvirke med europeiske data spaces, for eksempel for identitet, tilgangsstyring og datakataloger.
 - Lage prototyper av norske eller nordiske data spaces før man velger teknologi.
-- Prøve ut datadeling på tvers av sektorer på et ugradert nivå, også mellom sivile og militære aktører i totalforsvaret. Se [Relevans for norske aktører](../relevans-for-norge/).
+- Prøve ut datadeling på tvers av sektorer på et ugradert nivå, også mellom sivile og militære aktører i totalforsvaret. Se [Totalforsvaret og Forsvaret](../relevans-for-norge/#totalforsvaret-og-forsvaret).
 
 I Norge driver også Institutt for energiteknikk (IFE) en sandkasse for uttesting av løsninger for data space-infrastruktur, deriblant Simpl. Det kan være et naturlig sted å starte for praktisk testing.

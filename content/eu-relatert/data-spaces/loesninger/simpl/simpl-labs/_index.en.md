@@ -56,6 +56,6 @@ According to the Simpl-Labs team (email to Digdir, November 2026), participation
 
 - Test whether Norwegian shared national solutions and sector solutions can work together with European data spaces, for example for identity, access control and data catalogues.
 - Prototype Norwegian or Nordic data spaces before choosing technology.
-- Try out cross-sector data sharing at an unclassified level, including between civilian and military actors in total defence. See [Relevance for Norwegian actors](../relevans-for-norge/).
+- Try out cross-sector data sharing at an unclassified level, including between civilian and military actors in total defence. See [Total defence and the Norwegian Armed Forces](../relevans-for-norge/#total-defence-and-the-norwegian-armed-forces).
 
 In Norway, the Institute for Energy Technology (IFE) also runs a sandbox for testing data space infrastructure solutions, including Simpl. It may be a natural place to start for practical testing.

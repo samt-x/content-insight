@@ -28,7 +28,7 @@ Støtte til utvalgte europeiske data spaces: først en forstudie, deretter hjelp
 {{< /kort >}}
 {{< /kortrad >}}
 
-Hvordan dette kan være relevant, er omtalt under [Relevans for norske aktører](../relevans-for-norge/). Under [Finn fram i Simpl-dokumentasjonen](../finn-fram/) finner du en veiledning til arkitekturdokumentasjonen, som nå i hovedsak ligger som Markdown-filer i GitLab.
+Hvordan dette kan være relevant, er omtalt under [Relevans for norsk digital infrastruktur](../relevans-for-norge/). Under [Finn fram i Simpl-dokumentasjonen](../finn-fram/) finner du en veiledning til arkitekturdokumentasjonen, som nå i hovedsak ligger som Markdown-filer i GitLab.
 
 ---
 
@@ -50,7 +50,7 @@ Simpl-Open er laget for å samvirke med andre løsninger, ikke for å erstatte d
 
 Simpl-programmet sier selv at initiativer kan bruke enkeltkomponenter til å bygge egne løsninger, eller bruke Simpl-Open som grunnlag ([Simpl-programmet](https://simpl-programme.ec.europa.eu/dashboard/about-simpl)). DSSC omtaler Simpl-Open som ett alternativ blant flere. [Simpl-Labs](../simpl-labs/) skal også teste samvirke med data spaces som allerede finnes.
 
-*Vår vurdering:* I praksis fungerer Simpl-Open som en referanseimplementasjon. Den viser hvordan standardene henger sammen, og gir et felles sted å teste mot. For nasjonale løsninger er spørsmålet derfor ikke Simpl eller egne løsninger, men om egne løsninger samvirker med Simpl. Se [Relevans for norske aktører](../relevans-for-norge/).
+*Vår vurdering:* I praksis fungerer Simpl-Open som en referanseimplementasjon. Den viser hvordan standardene henger sammen, og gir et felles sted å teste mot. For nasjonale løsninger er spørsmålet derfor ikke Simpl eller egne løsninger, men om egne løsninger samvirker med Simpl. Se [Relevans for norsk digital infrastruktur](../relevans-for-norge/).
 
 ---
 

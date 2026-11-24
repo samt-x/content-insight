@@ -28,7 +28,7 @@ Support for selected European data spaces: first a feasibility study, then help 
 {{< /kort >}}
 {{< /kortrad >}}
 
-How this may be relevant is discussed under [Relevance for Norwegian actors](../relevans-for-norge/). Under [Finding your way in the Simpl documentation](../finn-fram/) you will find a guide to the architecture documentation, which now lives mainly as Markdown files in GitLab.
+How this may be relevant is discussed under [Relevance for Norwegian digital infrastructure](../relevans-for-norge/). Under [Finding your way in the Simpl documentation](../finn-fram/) you will find a guide to the architecture documentation, which now lives mainly as Markdown files in GitLab.
 
 ---
 
@@ -50,7 +50,7 @@ Simpl-Open is designed to work together with other solutions, not to replace the
 
 The Simpl programme itself says that initiatives can use individual components to build their own solutions, or use Simpl-Open as a base ([the Simpl programme](https://simpl-programme.ec.europa.eu/dashboard/about-simpl)). DSSC describes Simpl-Open as one option among several. [Simpl-Labs](../simpl-labs/) is also to test interoperability with data spaces that already exist.
 
-*Our assessment:* In practice, Simpl-Open works as a reference implementation. It shows how the standards fit together, and provides a common place to test against. For national solutions, the question is therefore not whether to choose Simpl or build one's own, but whether one's own solutions work together with Simpl. See [Relevance for Norwegian actors](../relevans-for-norge/).
+*Our assessment:* In practice, Simpl-Open works as a reference implementation. It shows how the standards fit together, and provides a common place to test against. For national solutions, the question is therefore not whether to choose Simpl or build one's own, but whether one's own solutions work together with Simpl. See [Relevance for Norwegian digital infrastructure](../relevans-for-norge/).
 
 ---
 
