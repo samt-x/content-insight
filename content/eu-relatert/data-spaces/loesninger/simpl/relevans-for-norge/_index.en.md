@@ -13,6 +13,10 @@ last_editor: Erik Hagen
 
 ## In brief
 
+The Norwegian government's goal is for Norway to be the most digitalised country in the world by 2030. The digitalisation strategy also states that Norway will take part in the EU's work on common European data spaces where relevant, and create strong synergies between Norwegian and European digitalisation policy ([The Digital Norway of the Future, 2024](https://www.regjeringen.no/en/documents/the-digital-norway-of-the-future/id3054645/?ch=2)).
+
+*Our assessment:* The goal cannot be reached alone. The road there must include being among the best at European and international cooperation, and Simpl is one of the arenas for that:
+
 1. **Help in navigating a complex landscape.** The European data spaces build on many standards and requirements at the same time, including for exchanging data, expressing terms for the use of data, describing datasets and verifying digital credentials. Norwegian shared national solutions must relate to them, with or without Simpl. Simpl-Open, the software Simpl develops, shows how they fit together in practice, and can be a locomotive to hitch on to in order to get in line with the standards and requirements.
 2. **Simpl is becoming a requirement in EU-funded projects.** Several calls in the EU's Digital Europe programme ask for solutions that work with Simpl, including in health, genomic data and cultural heritage. This already makes Simpl relevant for Norwegian participants in such projects.
 3. **The window for influence is now.** Simpl is at an early stage. None of the first data spaces adopting Simpl (Simpl-Live) had reached operational deployment in August 2026, and the Simpl-Labs test environment is being shaped now. The Simpl-Labs user group holds its kick-off meeting in Brussels on 9 December 2026, and Digdir is represented in it.
