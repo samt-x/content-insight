@@ -8,6 +8,7 @@ last_editor: Erik Hagen
 
 ---
 *Hva kan Simpl bety for norsk digital infrastruktur? Denne siden ser på hva Simpl betyr for infrastrukturen samlet, for utvalgte leverandører av fellesløsninger og for totalforsvaret, og på forhold det er lurt å være klar over.*
+
 ---
 
 ## Kort fortalt
