@@ -18,7 +18,8 @@ The page is mainly a professional assessment. Factual statements are sourced. Th
 2. **Simpl is becoming a requirement in EU-funded projects.** Several Digital Europe calls ask for Simpl-compatible solutions, and the operation of the EOSC EU Node is to be integrated with Simpl. This already makes Simpl relevant for Norwegian participants in such projects.
 3. **The window for influence is now.** Simpl is at an early stage. None of the initiatives in Simpl-Live had reached operational deployment in August 2026, and Simpl-Labs is being shaped now. The Simpl-Labs user group holds its kick-off meeting in Brussels on 9 December 2026, and Digdir is represented in it.
 4. **Norwegian solutions can reach further.** Simpl is federated: each participant keeps its own solutions as long as they follow the common standards. Norwegian shared solutions can thus become Norway's connection point to European data spaces.
-5. **The effort is small and flexible.** Participation in the user group is about feedback, testing and occasional meetings, adapted to each organisation's capacity. In return, we get early access to a common European test environment.
+5. **Open source in a bigger picture.** Simpl-Open is part of the EU's investment in open source and digital commons. We can reuse components, contribute to further development, and test our own solutions against the alternatives: if ours are good, others can build on them; if there are better alternatives, we can join those instead.
+6. **The effort is small and flexible.** Participation in the user group is about feedback, testing and occasional meetings, adapted to each organisation's capacity. In return, we get early access to a common European test environment.
 
 The sources are given in the chapters below.
 
@@ -32,6 +33,19 @@ Simpl builds on a federated architecture where each participant keeps its own so
 - **Influence:** In the [Simpl-Labs user group](../simpl-labs/#the-user-group-user-interest-group) we can bring in Norwegian testing needs and influence what Labs will offer, while the service is still being shaped.
 - **Testing before it becomes a requirement:** In [Simpl-Labs](../simpl-labs/) we can test whether Norwegian solutions work together with the European setup, before a sector or a call requires it.
 - **Reuse of open source:** The components of Simpl-Open are licensed under EUPL 1.2 and can be reused in Norwegian solutions without adopting all of Simpl.
+- **Collaboration on open source:** Simpl accepts contributions from outside: code, assessments of requirements and architecture, issue reports and strategic cooperation. The programme commits to addressing contributions within three working days ([the Simpl programme: How to contribute](https://simpl-programme.ec.europa.eu/dashboard/how-contribute)).
+
+#### Open source in a bigger picture
+
+The EU's open source strategy from June 2026 lists Simpl among the EU's existing actions, as middleware for European data spaces. The strategy is to be implemented in particular through the Digital Commons EDIC ([EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)). The consortium was launched in December 2025, with France, Germany, the Netherlands and Italy as members, and is to coordinate national development of open, interoperable and reusable solutions that can be shared across borders ([the Commission, December 2025](https://digital-strategy.ec.europa.eu/en/news/digital-commons-edic-launches-advance-europes-technological-sovereignty)). Internationally there are related initiatives, including the Digital Public Goods Alliance and GovStack.
+
+*Our assessment:* We have not found that Simpl is formally linked to the Digital Public Goods Alliance or GovStack, but Simpl builds on the same thinking: shared digital infrastructure as open source, which several countries can use and develop together. For Norway this works both ways:
+
+- **Reuse:** Norwegian shared solutions can adopt components that others have developed.
+- **Development together with others:** If Norwegian solutions are good, they can gain contributors and users outside Norway. One example is Digdir's solutions for describing datasets and public services on data.norge.no, which build on the European standards DCAT-AP and CPSV-AP.
+- **Comparison:** If tests show that other solutions have a better concept or have come further, it may be better to join the collaboration on them than to develop everything ourselves.
+
+Simpl-Labs, with conformance tests against Simpl-Open, is a place where such a comparison can be made. The actual collaboration on the code takes place in the projects' own communities, for example in Simpl-Open or in SEMIC, which maintains DCAT-AP and CPSV-AP.
 
 ---
 
@@ -55,7 +69,7 @@ Which shared solutions should be analysed, and which questions must be clarified
 - **Access control and authorisation (Altinn):** Altinn Authorisation is based on XACML, while Simpl and other data spaces express usage terms in ODRL. A link between the two models is needed if Norwegian access rights are to apply in European data spaces.
 - **Identity and wallet (ID-porten, EUDI wallet):** Simpl-Open uses verifiable credentials both for identification and for contracting, and has chosen an OID4VP verifier. This ties Simpl directly to the work on digital wallets under eIDAS 2.0.
 - **Data catalogues (data.norge.no):** Simpl-Open uses RDF-based descriptions and plans support for DCAT-AP. Norwegian catalogues follow DCAT-AP-NO, and the alignment between them should be tested.
-- **Open source:** *Our assessment:* Simpl-Open is open source developed for the Commission. Digdir can reuse components and collaborate on further development, instead of developing everything itself.
+- **Open source:** *Our assessment:* Digdir can reuse components from Simpl-Open, let its own solutions meet the alternatives in Simpl-Labs, and work with others on further development where it pays off (see [Open source in a bigger picture](#open-source-in-a-bigger-picture)).
 
 **KS Digital**
 

@@ -18,7 +18,8 @@ Siden er i hovedsak en faglig vurdering. Faktaopplysninger har kildehenvisning. 
 2. **Simpl blir et krav i EU-finansierte prosjekter.** Flere utlysninger i Digital Europe ber om Simpl-kompatible løsninger, og driften av EOSC EU Node skal integreres med Simpl. Det gjør Simpl relevant for norske deltakere i slike prosjekter allerede nå.
 3. **Vinduet for å påvirke er nå.** Simpl er i en tidlig fase. Ingen av initiativene i Simpl-Live var kommet til operativ drift i august 2026, og Simpl-Labs formes nå. Brukergruppen for Simpl-Labs har oppstartsmøte i Brussel 9. desember 2026, og Digdir er representert der.
 4. **Norske løsninger kan nå lenger.** Simpl er føderert: hver deltaker beholder sine egne løsninger så lenge de følger de felles standardene. Norske fellesløsninger kan dermed bli Norges tilkoblingspunkt til europeiske data spaces.
-5. **Innsatsen er liten og fleksibel.** Deltakelse i brukergruppen handler om tilbakemeldinger, testing og møter av og til, tilpasset den enkeltes kapasitet. Til gjengjeld får vi tidlig tilgang til et felles europeisk testmiljø.
+5. **Åpen kildekode i et større bilde.** Simpl-Open er en del av EUs satsing på åpen kildekode og digitale fellesgoder. Vi kan gjenbruke komponenter, bidra til videreutviklingen, og prøve egne løsninger mot alternativene: er de gode, kan andre bygge videre på dem; finnes det bedre alternativer, kan vi heller slutte oss til dem.
+6. **Innsatsen er liten og fleksibel.** Deltakelse i brukergruppen handler om tilbakemeldinger, testing og møter av og til, tilpasset den enkeltes kapasitet. Til gjengjeld får vi tidlig tilgang til et felles europeisk testmiljø.
 
 Kildene står i kapitlene under.
 
@@ -32,6 +33,19 @@ Simpl bygger på en føderert arkitektur der hver deltaker beholder sine egne l�
 - **Påvirkning:** I [brukergruppen for Simpl-Labs](../simpl-labs/#brukergruppen-user-interest-group) kan vi melde inn norske testbehov og påvirke hva Labs skal tilby, mens tjenesten fortsatt formes.
 - **Uttesting før det blir krav:** I [Simpl-Labs](../simpl-labs/) kan vi teste om norske løsninger samvirker med det europeiske oppsettet, før en sektor eller en utlysning krever det.
 - **Gjenbruk av åpen kildekode:** Komponentene i Simpl-Open er lisensiert under EUPL 1.2 og kan gjenbrukes i norske løsninger uten at man tar i bruk hele Simpl.
+- **Samarbeid om åpen kildekode:** Simpl tar imot bidrag utenfra, både kode, vurderinger av krav og arkitektur, feilmeldinger og strategisk samarbeid. Programmet lover å svare på bidrag innen tre virkedager ([Simpl-programmet: How to contribute](https://simpl-programme.ec.europa.eu/dashboard/how-contribute)).
+
+#### Åpen kildekode i et større bilde
+
+EUs strategi for åpen kildekode fra juni 2026 nevner Simpl som et av EUs eksisterende tiltak, med mellomvare for europeiske data spaces. Strategien skal blant annet gjennomføres gjennom Digital Commons EDIC ([EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)). Konsortiet ble lansert i desember 2025, med Frankrike, Tyskland, Nederland og Italia som medlemmer, og skal samordne nasjonal utvikling av åpne, samvirkende og gjenbrukbare løsninger som kan deles på tvers av landegrenser ([Kommisjonen, desember 2025](https://digital-strategy.ec.europa.eu/en/news/digital-commons-edic-launches-advance-europes-technological-sovereignty)). Internasjonalt finnes beslektede initiativer, blant annet Digital Public Goods Alliance og GovStack.
+
+*Vår vurdering:* Vi har ikke funnet at Simpl er formelt knyttet til Digital Public Goods Alliance eller GovStack, men Simpl bygger på den samme tankegangen: felles digital infrastruktur som åpen kildekode, som flere land kan bruke og videreutvikle sammen. For Norge går det begge veier:
+
+- **Gjenbruk:** Norske fellesløsninger kan ta i bruk komponenter som andre har utviklet.
+- **Videreutvikling sammen med andre:** Er norske løsninger gode, kan de få bidrag og brukere utenfor Norge. Et eksempel er Digdirs løsninger for beskrivelser av datasett og offentlige tjenester på data.norge.no, som bygger på de europeiske standardene DCAT-AP og CPSV-AP.
+- **Sammenligning:** Viser testene at andre løsninger har et bedre konsept eller har kommet lenger, kan det være riktigere å slutte seg til samarbeidet om dem enn å videreutvikle alt selv.
+
+Simpl-Labs, med samsvarstester mot Simpl-Open, er et sted der en slik sammenligning kan gjøres. Selve samarbeidet om koden skjer i prosjektenes egne fellesskap, for eksempel i Simpl-Open eller i SEMIC, som forvalter DCAT-AP og CPSV-AP.
 
 ---
 
@@ -55,7 +69,7 @@ Hvilke fellesløsninger som bør analyseres, og hvilke spørsmål som må avklar
 - **Tilgangsstyring og autorisasjon (Altinn):** Altinn Autorisasjon bygger på XACML, mens Simpl og andre data spaces uttrykker bruksvilkår i ODRL. Det trengs en kobling mellom de to modellene hvis norske tilganger skal kunne gjelde i europeiske data spaces.
 - **Identitet og lommebok (ID-porten, EUDI-lommebok):** Simpl-Open bruker verifiserbare attester både til identifisering og til avtaleinngåelse, og har valgt en OID4VP-verifikator. Det knytter Simpl direkte til arbeidet med digitale lommebøker under eIDAS 2.0.
 - **Datakataloger (data.norge.no):** Simpl-Open bruker RDF-baserte beskrivelser og planlegger støtte for DCAT-AP. Norske kataloger følger DCAT-AP-NO, og samsvaret mellom dem bør testes.
-- **Åpen kildekode:** *Vår vurdering:* Simpl-Open er åpen kildekode som utvikles for Kommisjonen. Digdir kan gjenbruke komponenter og samarbeide om videreutviklingen, i stedet for å utvikle alt selv.
+- **Åpen kildekode:** *Vår vurdering:* Digdir kan gjenbruke komponenter fra Simpl-Open, la egne løsninger møte alternativene i Simpl-Labs, og samarbeide med andre om videreutviklingen der det lønner seg (se [Åpen kildekode i et større bilde](#åpen-kildekode-i-et-større-bilde)).
 
 **KS Digital**
 
