@@ -7,9 +7,6 @@ last_editor: Erik Hagen
 
 ---
 *What can Simpl mean for Norwegian digital infrastructure? This page looks at what Simpl means for the infrastructure as a whole, for selected providers of shared national solutions and for total defence, and at matters worth being aware of.*
-
-The page is mainly a professional assessment. Factual statements are sourced. The rest is our assessment, and is marked as such.
-
 ---
 
 ## In brief
