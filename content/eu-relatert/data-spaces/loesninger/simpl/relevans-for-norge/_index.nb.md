@@ -12,7 +12,7 @@ last_editor: Erik Hagen
 
 ## Kort fortalt
 
-1. **Standardene kommer uansett.** De europeiske data spacene samles om de samme byggeklossene: Dataspace Protocol, ODRL-policyer, DCAT-baserte kataloger og verifiserbare attester. Simpl-Open er den mest konkrete europeiske implementasjonen av dem. Norske fellesløsninger må forholde seg til disse standardene, med eller uten Simpl.
+1. **Standardene kommer uansett.** De europeiske data spacene samles om de samme byggeklossene, blant annet Dataspace Protocol, ODRL-policyer, DCAT-baserte kataloger og verifiserbare attester. Norske fellesløsninger må forholde seg til disse standardene, med eller uten Simpl. Simpl-Open kan være et lokomotiv å hekte seg på for å komme på linje med standardene og kravene.
 2. **Simpl blir et krav i EU-finansierte prosjekter.** Flere utlysninger i Digital Europe ber om Simpl-kompatible løsninger, og driften av EOSC EU Node skal integreres med Simpl. Det gjør Simpl relevant for norske deltakere i slike prosjekter allerede nå.
 3. **Vinduet for å påvirke er nå.** Simpl er i en tidlig fase. Ingen av initiativene i Simpl-Live var kommet til operativ drift i august 2026, og Simpl-Labs formes nå. Brukergruppen for Simpl-Labs har oppstartsmøte i Brussel 9. desember 2026, og Digdir er representert der.
 4. **Norske løsninger kan nå lenger.** Simpl er føderert: hver deltaker beholder sine egne løsninger så lenge de følger de felles standardene. Norske fellesløsninger kan dermed bli Norges tilkoblingspunkt til europeiske data spaces.
@@ -29,9 +29,11 @@ Simpl bygger på en føderert arkitektur der hver deltaker beholder sine egne l�
 
 ### Felles standarder kommer uansett
 
-Simpl-Open er den mest konkrete europeiske implementasjonen av byggeklossene som de europeiske data spacene samles om: Dataspace Protocol, connector, ODRL-policyer, verifiserbare attester og DCAT-baserte kataloger. For norske fellesløsninger er spørsmålet derfor ikke om de skal forholde seg til disse standardene, men hvordan og når.
+De europeiske data spacene samles om de samme byggeklossene, blant annet Dataspace Protocol, connector, ODRL-policyer, verifiserbare attester og DCAT-baserte kataloger. For norske fellesløsninger er spørsmålet derfor ikke om de skal forholde seg til disse standardene, men hvordan og når.
 
 Løsningene må følge standardene for datadeling (Dataspace Protocol, ODRL, DCAT-AP) og kravene til identitet og tillitstjenester (eIDAS 2.0, EUDI-lommeboken, verifiserbare attester). Det arbeidet må gjøres uansett, med eller uten Simpl.
+
+*Vår vurdering:* Simpl-Open er den mest konkrete europeiske implementasjonen av disse byggeklossene, og kan være et lokomotiv å hekte seg på for å komme på linje med standardene og kravene.
 
 ### Fellesløsningenes plass
 

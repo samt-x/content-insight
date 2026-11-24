@@ -12,7 +12,7 @@ last_editor: Erik Hagen
 
 ## In brief
 
-1. **The standards are coming anyway.** The European data spaces are converging on the same building blocks: the Dataspace Protocol, ODRL policies, DCAT-based catalogues and verifiable credentials. Simpl-Open is the most concrete European implementation of them. Norwegian shared national solutions must relate to these standards, with or without Simpl.
+1. **The standards are coming anyway.** The European data spaces are converging on the same building blocks, including the Dataspace Protocol, ODRL policies, DCAT-based catalogues and verifiable credentials. Norwegian shared national solutions must relate to these standards, with or without Simpl. Simpl-Open can be a locomotive to hitch on to in order to get in line with the standards and requirements.
 2. **Simpl is becoming a requirement in EU-funded projects.** Several Digital Europe calls ask for Simpl-compatible solutions, and the operation of the EOSC EU Node is to be integrated with Simpl. This already makes Simpl relevant for Norwegian participants in such projects.
 3. **The window for influence is now.** Simpl is at an early stage. None of the initiatives in Simpl-Live had reached operational deployment in August 2026, and Simpl-Labs is being shaped now. The Simpl-Labs user group holds its kick-off meeting in Brussels on 9 December 2026, and Digdir is represented in it.
 4. **Norwegian solutions can reach further.** Simpl is federated: each participant keeps its own solutions as long as they follow the common standards. Norwegian shared solutions can thus become Norway's connection point to European data spaces.
@@ -29,9 +29,11 @@ Simpl builds on a federated architecture where each participant keeps its own so
 
 ### Common standards are coming anyway
 
-Simpl-Open is the most concrete European implementation of the building blocks that the European data spaces are converging on: the Dataspace Protocol, connectors, ODRL policies, verifiable credentials and DCAT-based catalogues. For Norwegian shared national solutions, the question is therefore not whether they should relate to these standards, but how and when.
+The European data spaces are converging on the same building blocks, including the Dataspace Protocol, connectors, ODRL policies, verifiable credentials and DCAT-based catalogues. For Norwegian shared national solutions, the question is therefore not whether they should relate to these standards, but how and when.
 
 The solutions must follow the standards for data sharing (Dataspace Protocol, ODRL, DCAT-AP) and the requirements for identity and trust services (eIDAS 2.0, the EUDI wallet, verifiable credentials). That work has to be done anyway, with or without Simpl.
+
+*Our assessment:* Simpl-Open is the most concrete European implementation of these building blocks, and can be a locomotive to hitch on to in order to get in line with the standards and requirements.
 
 ### The place of the shared national solutions
 
