@@ -57,4 +57,4 @@ There may be more such examples that we do not know of.
 
 ### What it means for Norwegian actors
 
-*This is our assessment.* Most Norwegian actors will probably not come into contact with Simpl because they have chosen it themselves, but because their sector does. When, for example, health, procurement, mobility or energy build on Simpl-Open, Norwegian participants in these data spaces must be able to connect. See [Description of each data space](../../../beskrivelse-av-hvert-data-space/) and [Norwegian participation](../../../norsk-deltakelse/) for the individual sectors.
+*This is an assessment.* Most Norwegian actors will probably not come into contact with Simpl because they have chosen it themselves, but because their sector does. When, for example, health, procurement, mobility or energy build on Simpl-Open, Norwegian participants in these data spaces must be able to connect. See [Description of each data space](../../../beskrivelse-av-hvert-data-space/) and [Norwegian participation](../../../norsk-deltakelse/) for the individual sectors.

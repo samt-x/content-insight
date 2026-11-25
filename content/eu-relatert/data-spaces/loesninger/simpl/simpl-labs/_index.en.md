@@ -46,13 +46,13 @@ According to the Simpl-Labs team (email to Digdir, November 2026), participation
 - **Waves:** Participation is organised in several waves, each with new functionalities. It is possible to join in a later wave.
 - **Multiple users:** An organisation can onboard multiple users. How this works, and any limitations, will be presented at the kick-off meeting.
 
-*Our assessment:* The first waves set the direction for what Simpl-Labs will offer and which needs are prioritised next. Feedback from testing in Labs will probably also influence what is prioritised in Simpl-Open. Those who join later test what others have asked for. Norwegian actors should therefore take part from the first wave, with concrete Norwegian testing needs, rather than wait until the solution is mature.
+*Assessment:* The first waves set the direction for what Simpl-Labs will offer and which needs are prioritised next. Feedback from testing in Labs will probably also influence what is prioritised in Simpl-Open. Those who join later test what others have asked for. Norwegian actors should therefore take part from the first wave, with concrete Norwegian testing needs, rather than wait until the solution is mature.
 
 ---
 
 ### What Norwegian actors can use Simpl-Labs for
 
-*This is our assessment.*
+*This is an assessment.*
 
 - Test whether Norwegian shared national solutions and sector solutions can work together with European data spaces, for example for identity, access control and data catalogues.
 - Prototype Norwegian or Nordic data spaces before choosing technology.

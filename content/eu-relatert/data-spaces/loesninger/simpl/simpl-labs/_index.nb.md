@@ -46,13 +46,13 @@ Ifølge Simpl-Labs-teamet (e-post til Digdir, november 2026) skal deltakelsen v�
 - **Waves (bølger):** Deltakelsen er organisert i flere waves, med nye funksjoner i hver. Det er mulig å komme inn i en senere wave.
 - **Flere brukere:** En organisasjon kan ta inn flere brukere. Hvordan det skjer, og eventuelle begrensninger, blir presentert på oppstartsmøtet.
 
-*Vår vurdering:* Det er de første wavene som legger føringene for hva Simpl-Labs skal tilby, og hvilke behov som prioriteres videre. Tilbakemeldinger fra testing i Labs vil trolig også påvirke hva som prioriteres i Simpl-Open. Den som kommer inn senere, tester det andre har bedt om. Norske aktører bør derfor være med fra første wave, med konkrete norske testbehov, i stedet for å vente til løsningen er moden.
+*Vurdering:* Det er de første wavene som legger føringene for hva Simpl-Labs skal tilby, og hvilke behov som prioriteres videre. Tilbakemeldinger fra testing i Labs vil trolig også påvirke hva som prioriteres i Simpl-Open. Den som kommer inn senere, tester det andre har bedt om. Norske aktører bør derfor være med fra første wave, med konkrete norske testbehov, i stedet for å vente til løsningen er moden.
 
 ---
 
 ### Hva norske aktører kan bruke Simpl-Labs til
 
-*Dette er vår vurdering.*
+*Dette er en vurdering.*
 
 - Teste om norske fellesløsninger og sektorløsninger kan samvirke med europeiske data spaces, for eksempel for identitet, tilgangsstyring og datakataloger.
 - Lage prototyper av norske eller nordiske data spaces før man velger teknologi.

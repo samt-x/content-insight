@@ -15,7 +15,7 @@ last_editor: Erik Hagen
 
 Regjeringens mål er at Norge i 2030 skal være verdens mest digitaliserte land. Digitaliseringsstrategien slår også fast at Norge skal delta i EUs satsing på felles europeiske dataområder (data spaces) der det er relevant, og skape sterke synergier mellom norsk og europeisk digitaliseringspolitikk ([Fremtidens digitale Norge, 2024](https://www.regjeringen.no/no/dokumenter/fremtidens-digitale-norge/id3054645/?ch=2)).
 
-*Vår vurdering:* Målet kan ikke nås alene. Veien dit må gå gjennom å være blant de beste på europeisk og internasjonalt samarbeid, og Simpl er en av arenaene for det:
+*Vurdering:* Målet kan ikke nås alene. Veien dit må gå gjennom å være blant de beste på europeisk og internasjonalt samarbeid, og Simpl er en av arenaene for det:
 
 1. **Hjelp til å navigere i et komplisert landskap.** De europeiske data spacene bygger på mange standarder og krav samtidig, blant annet for å utveksle data, uttrykke vilkår for bruk av data, beskrive datasett og kontrollere digitale attester. Norske fellesløsninger må forholde seg til dem, med eller uten Simpl. Simpl-Open, programvaren Simpl utvikler, viser hvordan de henger sammen i praksis, og kan være et lokomotiv å hekte seg på for å komme på linje med standardene og kravene.
 2. **Simpl blir et krav i EU-finansierte prosjekter.** Flere utlysninger i EUs program Digital Europe ber om løsninger som virker sammen med Simpl, blant annet innen helse, genomdata og kulturarv. Det gjør Simpl relevant for norske deltakere i slike prosjekter allerede nå.
@@ -38,13 +38,13 @@ De europeiske data spacene samles om de samme byggeklossene, blant annet Dataspa
 
 Løsningene må følge standardene for datadeling (Dataspace Protocol, ODRL, DCAT-AP) og kravene til identitet og tillitstjenester (eIDAS 2.0, EUDI-lommeboken, verifiserbare attester). Det arbeidet må gjøres uansett, med eller uten Simpl.
 
-*Vår vurdering:* Simpl-Open er den mest konkrete europeiske implementasjonen av disse byggeklossene, og kan være et lokomotiv å hekte seg på for å komme på linje med standardene og kravene.
+*Vurdering:* Simpl-Open er den mest konkrete europeiske implementasjonen av disse byggeklossene, og kan være et lokomotiv å hekte seg på for å komme på linje med standardene og kravene.
 
 ### Fellesløsningenes plass
 
 Arkitekturprinsippene i Simpl er føderasjon, og samvirke uten krav om hvordan hver deltaker har bygd sin del (se [Én løsning blant flere](../om-simpl/#én-løsning-blant-flere)). Norske fellesløsninger trenger derfor ikke erstattes av Simpl, men må kunne samvirke med det.
 
-*Vår vurdering:* Den som er med og former standardene og kravene, kan sørge for at de passer med egne løsninger. Den som ikke er med, må tilpasse seg dem senere.
+*Vurdering:* Den som er med og former standardene og kravene, kan sørge for at de passer med egne løsninger. Den som ikke er med, må tilpasse seg dem senere.
 
 Hvilke fellesløsninger som bør analyseres, og hvilke spørsmål som må avklares, står i et eget utkast under Arkitektur: [Fellesløsninger og europeiske krav](/arkitektur/loesningslandskap/fellesloesninger-og-europeiske-krav/). Det dekker også eIDAS 2.0 og Once-Only, ikke bare data spaces.
 
@@ -60,7 +60,7 @@ Komponentene i Simpl-Open er lisensiert under EUPL 1.2 og kan gjenbrukes i norsk
 
 EUs strategi for åpen kildekode fra juni 2026 nevner Simpl som et av EUs eksisterende tiltak, med mellomvare for europeiske data spaces. Strategien skal blant annet gjennomføres gjennom Digital Commons EDIC ([EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)). Konsortiet ble lansert i desember 2025, med Frankrike, Tyskland, Nederland og Italia som medlemmer, og skal samordne nasjonal utvikling av åpne, samvirkende og gjenbrukbare løsninger som kan deles på tvers av landegrenser ([Kommisjonen, desember 2025](https://digital-strategy.ec.europa.eu/en/news/digital-commons-edic-launches-advance-europes-technological-sovereignty)). Internasjonalt finnes beslektede initiativer, blant annet Digital Public Goods Alliance og GovStack.
 
-*Vår vurdering:* Vi har ikke funnet at Simpl er formelt knyttet til Digital Public Goods Alliance eller GovStack, men Simpl bygger på den samme tankegangen: felles digital infrastruktur som åpen kildekode, som flere land kan bruke og videreutvikle sammen. For Norge går det begge veier:
+*Vurdering:* Vi har ikke funnet at Simpl er formelt knyttet til Digital Public Goods Alliance eller GovStack, men Simpl bygger på den samme tankegangen: felles digital infrastruktur som åpen kildekode, som flere land kan bruke og videreutvikle sammen. For Norge går det begge veier:
 
 - **Gjenbruk:** Norske fellesløsninger kan ta i bruk komponenter som andre har utviklet.
 - **Videreutvikling sammen med andre:** Er norske løsninger gode, kan de få bidrag og brukere utenfor Norge. Et eksempel er Digdirs løsninger for beskrivelser av datasett og offentlige tjenester på data.norge.no, som bygger på de europeiske standardene DCAT-AP og CPSV-AP.
@@ -79,7 +79,7 @@ Muligheter og konsekvenser henger sammen for hver leverandør, og står derfor s
 - **Tilgangsstyring og autorisasjon (Altinn):** Altinn Autorisasjon bygger på XACML, mens Simpl og andre data spaces uttrykker bruksvilkår i ODRL. Det trengs en kobling mellom de to modellene hvis norske tilganger skal kunne gjelde i europeiske data spaces.
 - **Identitet og lommebok (ID-porten, EUDI-lommebok):** Simpl-Open bruker verifiserbare attester både til identifisering og til avtaleinngåelse, og har valgt en OID4VP-verifikator. Det knytter Simpl direkte til arbeidet med digitale lommebøker under eIDAS 2.0.
 - **Datakataloger (data.norge.no):** Simpl-Open bruker RDF-baserte beskrivelser og planlegger støtte for DCAT-AP. Norske kataloger følger DCAT-AP-NO, og samsvaret mellom dem bør testes.
-- **Åpen kildekode:** *Vår vurdering:* Digdir kan gjenbruke komponenter fra Simpl-Open, la egne løsninger møte alternativene i Simpl-Labs, og samarbeide med andre om videreutviklingen der det lønner seg (se [Åpen kildekode i et større bilde](#åpen-kildekode-i-et-større-bilde)).
+- **Åpen kildekode:** *Vurdering:* Digdir kan gjenbruke komponenter fra Simpl-Open, la egne løsninger møte alternativene i Simpl-Labs, og samarbeide med andre om videreutviklingen der det lønner seg (se [Åpen kildekode i et større bilde](#åpen-kildekode-i-et-større-bilde)).
 
 ### KS Digital
 
@@ -93,7 +93,7 @@ Forsvaret lanserte *Forsvarets datasentriske arkitektur* (FDSA), også kalt «da
 
 På EU-siden bygger Det europeiske forsvarsbyrået (EDA) et eget forsvarsdatarom, European Defence Artificial Intelligence Data Space (DAIDS). Det skal være i ordinær bruk rundt 2029–2030 ([Computing](https://www.computing.co.uk/news/2026/security/eu-hopes-to-sever-defence-data); [Sopra Steria, april 2025](https://www.soprasteria.be/newsroom/press-releases/details/european-defence-agency-select-sopra-steria-CDE-and-CEA-for-framework-contract)). Vi har ikke funnet noen kobling mellom DAIDS og Simpl.
 
-*Vår vurdering:* Prinsippene i FDSA passer godt med tankegangen i data spaces. At regler skal følge dataene, tilsvarer for eksempel ODRL-policyer som følger med dataene gjennom en connector. Totalforsvaret er avhengig av datadeling med sivile aktører, og disse vil i økende grad være koblet til europeiske data spaces. Simpl-Labs kan derfor være en nøytral, sivil og ugradert arena for å teste datadeling mellom sivile og militære aktører, uten at noen binder seg til en plattform.
+*Vurdering:* Prinsippene i FDSA passer godt med tankegangen i data spaces. At regler skal følge dataene, tilsvarer for eksempel ODRL-policyer som følger med dataene gjennom en connector. Totalforsvaret er avhengig av datadeling med sivile aktører, og disse vil i økende grad være koblet til europeiske data spaces. Simpl-Labs kan derfor være en nøytral, sivil og ugradert arena for å teste datadeling mellom sivile og militære aktører, uten at noen binder seg til en plattform.
 
 Simpl er ikke laget for graderte data. For gradert informasjon gjelder fortsatt NATO-standarder og graderingskrav, og DAIDS er et eget spor.
 
@@ -111,7 +111,7 @@ Simpl-Live omfatter 11 data spaces og initiativer, seks i wave 1 og fem i wave 2
 
 Utenfor Simpl-Live har pilotene for smarte samfunn testet Simpl-Open på egen hånd. Én av dem oppgir selv at Valencia har en Simpl-node i drift, men det har vi ikke kunnet etterprøve (se [Uttesting utenfor Simpl-Live](../simpl-live/#uttesting-utenfor-simpl-live)). Ellers har vi ikke funnet noen kilde som sier at Simpl-Open er i operativ drift i et data space ennå.
 
-*Vår vurdering:* Simpl er fortsatt i en tidlig fase. Det betyr at norske aktører kan være med og forme hvordan løsningen tas i bruk, og at kravene om Simpl-kompatibilitet i Digital Europe allerede gjør Simpl relevant for norske deltakere i slike prosjekter.
+*Vurdering:* Simpl er fortsatt i en tidlig fase. Det betyr at norske aktører kan være med og forme hvordan løsningen tas i bruk, og at kravene om Simpl-kompatibilitet i Digital Europe allerede gjør Simpl relevant for norske deltakere i slike prosjekter.
 
 ### Modenhet og framdrift
 
@@ -127,7 +127,7 @@ Simpl-Open er ikke den eneste tekniske løsningen for data spaces. DSSC sier det
 
 En fagfellevurdert artikkel fra april 2026 vurderer modenheten til Simpl som klart lavere enn i Eclipse Tractus-X, som brukes i bilindustriens data space Catena-X ([Paz m.fl., JISBD 2026](https://hdl.handle.net/11705/JISBD/2026/168)). To av forfatterne arbeider selv med Tractus-X.
 
-*Vår vurdering:* Det taler for å bruke Simpl-Labs til å teste samvirke mellom flere løsninger, ikke for å binde seg til én. Styringen av programmet og veikartet ligger hos Kommisjonen, og nettopp derfor er det en fordel å være med der prioriteringene settes.
+*Vurdering:* Det taler for å bruke Simpl-Labs til å teste samvirke mellom flere løsninger, ikke for å binde seg til én. Styringen av programmet og veikartet ligger hos Kommisjonen, og nettopp derfor er det en fordel å være med der prioriteringene settes.
 
 ---
 
@@ -135,5 +135,5 @@ En fagfellevurdert artikkel fra april 2026 vurderer modenheten til Simpl som kla
 
 - Delta i brukergruppen for Simpl-Labs fra første wave, med oppstart i Brussel 9. desember 2026, og ta med konkrete norske testbehov. Det er tidlig at prioriteringene settes (se [Simpl-Labs](../simpl-labs/#brukergruppen-user-interest-group)).
 - Teste koblingen mellom Altinn-autorisasjon og ODRL, mellom lommebok og verifiserbare attester, og mellom DCAT-AP-NO og DCAT-AP, i Simpl-Labs.
-- Koble Simpl-Labs med norske sandkasser og testmiljøer for datadeling og kunstig intelligens (KI). Eksempler er Datatilsynets regulatoriske sandkasse for personvernvennlig innovasjon, som også har hatt prosjekter om datadeling, og den regulatoriske KI-sandkassen som Datatilsynet, Nasjonal kommunikasjonsmyndighet (Nkom) og Digdir er i ferd med å etablere som en del av KI-Norge ([Datatilsynets årsrapport for 2025](https://www.regjeringen.no/contentassets/d0c7f859c7034c2d943158143e724783/nn-no/sved/datatilsynet.pdf)). Institutt for energiteknikk (IFE) er også med i brukergruppen, og driver en egen sandkasse for data space-infrastruktur. *Vår vurdering:* De norske sandkassene kan avklare juridiske og etiske spørsmål, mens Simpl-Labs kan teste om løsningene virker sammen med det europeiske oppsettet. Sammen kan de gi en vei fra norsk uttesting til europeisk samvirke.
+- Koble Simpl-Labs med norske sandkasser og testmiljøer for datadeling og kunstig intelligens (KI). Eksempler er Datatilsynets regulatoriske sandkasse for personvernvennlig innovasjon, som også har hatt prosjekter om datadeling, og den regulatoriske KI-sandkassen som Datatilsynet, Nasjonal kommunikasjonsmyndighet (Nkom) og Digdir er i ferd med å etablere som en del av KI-Norge ([Datatilsynets årsrapport for 2025](https://www.regjeringen.no/contentassets/d0c7f859c7034c2d943158143e724783/nn-no/sved/datatilsynet.pdf)). Institutt for energiteknikk (IFE) er også med i brukergruppen, og driver en egen sandkasse for data space-infrastruktur. *Vurdering:* De norske sandkassene kan avklare juridiske og etiske spørsmål, mens Simpl-Labs kan teste om løsningene virker sammen med det europeiske oppsettet. Sammen kan de gi en vei fra norsk uttesting til europeisk samvirke.
 - Utforske en felles sivil–militær test av datadeling i totalforsvaret sammen med Forsvaret.

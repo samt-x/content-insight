@@ -57,4 +57,4 @@ Det kan finnes flere slike eksempler som vi ikke kjenner til.
 
 ### Hva det betyr for norske aktører
 
-*Dette er vår vurdering.* De fleste norske aktører kommer neppe i kontakt med Simpl fordi de selv har valgt det, men fordi sektoren deres gjør det. Når for eksempel helse, anskaffelser, mobilitet eller energi bygger på Simpl-Open, må norske deltakere i disse data spacene kunne koble seg på. Se [Beskrivelse av hvert data space](../../../beskrivelse-av-hvert-data-space/) og [Norsk deltakelse](../../../norsk-deltakelse/) for de enkelte sektorene.
+*Dette er en vurdering.* De fleste norske aktører kommer neppe i kontakt med Simpl fordi de selv har valgt det, men fordi sektoren deres gjør det. Når for eksempel helse, anskaffelser, mobilitet eller energi bygger på Simpl-Open, må norske deltakere i disse data spacene kunne koble seg på. Se [Beskrivelse av hvert data space](../../../beskrivelse-av-hvert-data-space/) og [Norsk deltakelse](../../../norsk-deltakelse/) for de enkelte sektorene.
