@@ -49,9 +49,9 @@ Senere oppsummeringer fra programmet gir noen holdepunkter. I juli 2026 var inte
 Noen tar i bruk Simpl-Open på egen hånd, utenfor Simpl-Live. To eksempler kommer fra pilotene i DS4SSCC, som bygger opp data spacet for smarte samfunn:
 
 - **Helsinki:** Forum Virium Helsinki satte opp Simpl-Open (versjon 3.0.4) i en skytjeneste fra januar 2026, i piloten Traffic Flow Data Space. 11. juni 2026 virket hele flyten for opptak av nye deltakere, fra søknad til godkjenning. Kodelageret dokumenterer også mange problemer underveis ([pilotens tidslinje på GitHub](https://github.com/ForumViriumHelsinki/traffic_flow_data_space/blob/main/doc/simpl-eval-cloud/overview/deployment-timeline.md)).
-- **Valencia:** Piloten NEXCITY (Valencia og Rotterdam, august–oktober 2026) oppgir at Valencia «operates a live SIMPL node» ([DS4SSCC, NEXCITY](https://www.ds4sscc.eu/nexcity)). *Dette er pilotens egen opplysning, og vi har ikke kunnet etterprøve den.*
+- **Valencia:** Piloten NEXCITY (Valencia og Rotterdam, august–oktober 2026) oppgir at Valencia «operates a live SIMPL node» ([DS4SSCC, NEXCITY](https://www.ds4sscc.eu/nexcity)). *Dette er pilotens egen opplysning, og den har ikke latt seg etterprøve.*
 
-Det kan finnes flere slike eksempler som vi ikke kjenner til.
+Det kan finnes flere slike eksempler enn disse.
 
 ---
 

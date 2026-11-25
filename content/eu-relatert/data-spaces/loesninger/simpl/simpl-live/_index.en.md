@@ -49,9 +49,9 @@ Later summaries from the programme give some indications. In July 2026, the inte
 Some are adopting Simpl-Open on their own, outside Simpl-Live. Two examples come from the pilots in DS4SSCC, which is building the data space for smart communities:
 
 - **Helsinki:** Forum Virium Helsinki set up Simpl-Open (version 3.0.4) in a cloud service from January 2026, in the Traffic Flow Data Space pilot. On 11 June 2026 the whole flow for onboarding new participants worked, from application to approval. The repository also documents many problems along the way ([the pilot's timeline on GitHub](https://github.com/ForumViriumHelsinki/traffic_flow_data_space/blob/main/doc/simpl-eval-cloud/overview/deployment-timeline.md)).
-- **Valencia:** The NEXCITY pilot (Valencia and Rotterdam, August–October 2026) states that Valencia "operates a live SIMPL node" ([DS4SSCC, NEXCITY](https://www.ds4sscc.eu/nexcity)). *This is the pilot's own statement, and we have not been able to verify it.*
+- **Valencia:** The NEXCITY pilot (Valencia and Rotterdam, August–October 2026) states that Valencia "operates a live SIMPL node" ([DS4SSCC, NEXCITY](https://www.ds4sscc.eu/nexcity)). *This is the pilot's own statement, and it has not been possible to verify it.*
 
-There may be more such examples that we do not know of.
+There may be more such examples than these.
 
 ---
 

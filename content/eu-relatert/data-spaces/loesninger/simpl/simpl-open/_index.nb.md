@@ -49,13 +49,13 @@ Veikartet ordner byggeklossene etter de seks dimensjonene i kapabilitetskartet. 
 
 Kilder: veikartet for [Gdynia](https://simpl-programme.ec.europa.eu/development/development-status/simpl-open-roadmap-items-gdynia-4.0), [Hamburg](https://simpl-programme.ec.europa.eu/development/development-status/simpl-open-roadmap-items-hamburg-4.1) og [Innsbruck](https://simpl-programme.ec.europa.eu/development/development-status/simpl-open-roadmap-items-innsbruck-5.0), publisert januar 2026 og lest 18. november 2026. Veikartet viser ikke status for hvert element. At en release er utgitt, betyr derfor ikke nødvendigvis at alle elementene i den er levert fullt ut. Funksjonalitet fra tidligere releaser (MVP til 3.x), som opptak av deltakere og inngåelse av bruksavtaler, er ikke med i tabellen.
 
-Det nærmeste vi har funnet en status underveis, er det programmet viste fram på Coffee with Simpl 1. oktober 2026: arbeid med publisering og søk etter applikasjoner, overvåking, sikkerhet, utrulling av applikasjoner, støttetjenester, oppsett av føderasjon og samtykke. Alt dette er elementer i Hamburg, som altså var under arbeid da ([Coffee with Simpl 4](https://simpl-programme.ec.europa.eu/news/coffee-simpl-4th-edition-recap)).
+Det nærmeste man kommer en status underveis, er det programmet viste fram på Coffee with Simpl 1. oktober 2026: arbeid med publisering og søk etter applikasjoner, overvåking, sikkerhet, utrulling av applikasjoner, støttetjenester, oppsett av føderasjon og samtykke. Alt dette er elementer i Hamburg, som altså var under arbeid da ([Coffee with Simpl 4](https://simpl-programme.ec.europa.eu/news/coffee-simpl-4th-edition-recap)).
 
 Ved siden av releasene utvikles tre utvidelser (Simpl-Open Extensions): AI/ML med kobling til EuroHPCs føderasjonsplattform, kobling av katalogen til markedsplassen DOME, og inntekter for styringsmyndigheten (monetisation). Fellesskapet kunne gi innspill til dem fram til 16. mars 2026, og i oktober var de under arbeid ([Juan Ferrer, mars 2026](https://coe-dsc.nl/wp-content/uploads/2026/04/Ana-Ferer-180326_Simpl_DataSharingFestival.pdf), [Coffee with Simpl 4](https://simpl-programme.ec.europa.eu/news/coffee-simpl-4th-edition-recap)).
 
 #### Endringer i planen over tid
 
-Programmet har publisert veikartet i flere versjoner. Når vi sammenligner dem, ser vi at flere av styringsfunksjonene er skjøvet omtrent ett år:
+Programmet har publisert veikartet i flere versjoner. En sammenligning viser at flere av styringsfunksjonene er skjøvet omtrent ett år:
 
 | Element | Veikart februar 2025 | Veikart mai 2025 | Veikart januar 2026 (gjeldende) |
 |---|---|---|---|
@@ -77,4 +77,4 @@ Alt ligger åpent på [code.europa.eu/simpl/simpl-open](https://code.europa.eu/s
 
 ### Vurdering av modenhet
 
-*Dette er en vurdering, ikke programmets.* Simpl-Open leveres jevnlig og har en tydelig arkitektur. Grunnleggende styring har vært med siden MVP: myndighetsrollen, opptak av deltakere og inngåelse av bruksavtaler. Forvaltning av kontrakter, policyer, samtykke og revisjon, og håndheving av kontrakter, kommer først i 5.0 ([utviklingsstatus](https://simpl-programme.ec.europa.eu/documentation/development-status)). Vi kjenner i hovedsak til bruk i Simpl-Live og i testmiljøer. Programvaren er derfor best egnet til å lære, teste og gjenbruke komponenter, og mindre egnet som ferdig plattform for et nytt norsk data space i dag.
+*Dette er en vurdering, ikke programmets.* Simpl-Open leveres jevnlig og har en tydelig arkitektur. Grunnleggende styring har vært med siden MVP: myndighetsrollen, opptak av deltakere og inngåelse av bruksavtaler. Forvaltning av kontrakter, policyer, samtykke og revisjon, og håndheving av kontrakter, kommer først i 5.0 ([utviklingsstatus](https://simpl-programme.ec.europa.eu/documentation/development-status)). Kjent bruk er i hovedsak i Simpl-Live og i testmiljøer. Programvaren er derfor best egnet til å lære, teste og gjenbruke komponenter, og mindre egnet som ferdig plattform for et nytt norsk data space i dag.
