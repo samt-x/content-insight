@@ -21,7 +21,7 @@ The Norwegian government's goal is for Norway to be the most digitalised country
 2. **Simpl is becoming a requirement in EU-funded projects.** Several calls in the EU's Digital Europe programme ask for solutions that work with Simpl, including in health, genomic data and cultural heritage. This already makes Simpl relevant for Norwegian participants in such projects.
 3. **The window for influence is now.** Simpl is at an early stage. None of the first data spaces adopting Simpl (Simpl-Live) had reached operational deployment in August 2026, and the Simpl-Labs test environment is being shaped now. The Simpl-Labs user group holds its kick-off meeting in Brussels on 9 December 2026.
 4. **Norwegian solutions can reach further.** Simpl is federated: each participant keeps its own solutions as long as they follow the common standards. Norwegian shared solutions can thus become Norway's connection point to European data spaces.
-5. **Open source in a bigger picture.** Simpl-Open is part of the EU's investment in open source and digital commons. Norwegian actors can reuse components, contribute to further development, and test their own solutions against the alternatives: if theirs are good, others can build on them; if there are better alternatives, Norwegian actors can join those instead.
+5. **Simpl is part of the EU strategy for open source and digital commons.** Norwegian actors can reuse components, contribute to further development, and test their own solutions against the alternatives: if theirs are good, others can build on them; if there are better alternatives, Norwegian actors can join those instead.
 6. **The Simpl-Labs user group is a low-cost first step.** Digdir has recently joined the user group, along with the Institute for Energy Technology (IFE) from Norway. According to the Simpl-Labs team, participation is about feedback, testing selected features and occasional meetings, adapted to each organisation's capacity (see [What participation involves](../simpl-labs/#what-participation-involves)). In return, participants get early access to a common European test environment. Participation does not commit anyone to adopting Simpl-Open.
 
 The sources are given in the chapters below.
@@ -54,7 +54,7 @@ Which shared solutions should be analysed, and which questions must be clarified
 - **Influence:** In the [Simpl-Labs user group](../simpl-labs/#the-user-group-user-interest-group) Norwegian actors can bring in testing needs and influence what Labs will offer, while the service is still being shaped.
 - **Testing before it becomes a requirement:** In [Simpl-Labs](../simpl-labs/) Norwegian actors can test whether their solutions work together with the European setup, before a sector or a call requires it.
 
-### Open source in a bigger picture
+### Simpl as part of the EU open source strategy
 
 The components of Simpl-Open are licensed under EUPL 1.2 and can be reused in Norwegian solutions without adopting all of Simpl. Simpl also accepts contributions from outside: code, assessments of requirements and architecture, issue reports and strategic cooperation. The programme commits to addressing contributions within three working days ([the Simpl programme: How to contribute](https://simpl-programme.ec.europa.eu/dashboard/how-contribute)).
 
@@ -79,7 +79,7 @@ Opportunities and consequences are linked for each provider, and are therefore s
 - **Access control and authorisation (Altinn):** Altinn Authorisation is based on XACML, while Simpl and other data spaces express usage terms in ODRL. A link between the two models is needed if Norwegian access rights are to apply in European data spaces.
 - **Identity and wallet (ID-porten, EUDI wallet):** Simpl-Open uses verifiable credentials both for identification and for contracting, and has chosen an OID4VP verifier. This ties Simpl directly to the work on digital wallets under eIDAS 2.0.
 - **Data catalogues (data.norge.no):** Simpl-Open uses RDF-based descriptions and plans support for DCAT-AP. Norwegian catalogues follow DCAT-AP-NO, and the alignment between them should be tested.
-- **Open source:** *Assessment:* Digdir can reuse components from Simpl-Open, let its own solutions meet the alternatives in Simpl-Labs, and work with others on further development where it pays off (see [Open source in a bigger picture](#open-source-in-a-bigger-picture)).
+- **Open source:** *Assessment:* Digdir can reuse components from Simpl-Open, let its own solutions meet the alternatives in Simpl-Labs, and work with others on further development where it pays off (see [Simpl as part of the EU open source strategy](#simpl-as-part-of-the-eu-open-source-strategy)).
 
 ### KS Digital
 
