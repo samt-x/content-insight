@@ -42,7 +42,7 @@ Løsningene må følge standardene for datadeling (Dataspace Protocol, ODRL, DCA
 
 ### Fellesløsningenes plass
 
-Arkitekturprinsippene i Simpl er føderasjon, og samvirke uten krav om hvordan hver deltaker har bygd sin del (se [Én løsning blant flere](../om-simpl/#én-løsning-blant-flere)). Norske fellesløsninger trenger derfor ikke erstattes av Simpl, men må kunne samvirke med det.
+Arkitekturprinsippene i Simpl er føderasjon, og samvirke uten krav om hvordan hver deltaker har bygd sin del (se [Én løsning blant flere](../om-simpl/#én-løsning-blant-flere)). Norske fellesløsninger trenger derfor ikke erstattes av Simpl, men må kunne fungere sammen med løsningene i de europeiske data spacene. Det handler ikke bare om tekniske grensesnitt. Like viktig er tillitsrammeverket: de felles reglene for hvordan deltakerne identifiseres, hvordan attester kontrolleres, og hvordan vilkår for bruk av data følges opp.
 
 *Vurdering:* Den som er med og former standardene og kravene, kan sørge for at de passer med egne løsninger. Den som ikke er med, må tilpasse seg dem senere.
 

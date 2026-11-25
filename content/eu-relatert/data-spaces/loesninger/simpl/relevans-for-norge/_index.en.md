@@ -42,7 +42,7 @@ The solutions must follow the standards for data sharing (Dataspace Protocol, OD
 
 ### The place of the shared national solutions
 
-Simpl's architecture principles are federation, and interoperability without requirements on how each participant has built its part (see [One solution among several](../om-simpl/#one-solution-among-several)). Norwegian shared solutions therefore do not need to be replaced by Simpl, but must be able to work together with it.
+Simpl's architecture principles are federation, and interoperability without requirements on how each participant has built its part (see [One solution among several](../om-simpl/#one-solution-among-several)). Norwegian shared solutions therefore do not need to be replaced by Simpl, but must be able to work together with the solutions in the European data spaces. This is not only about technical interfaces. Just as important is the trust framework: the common rules for how participants are identified, how credentials are verified, and how terms for the use of data are followed up.
 
 *Assessment:* Those who take part in shaping the standards and requirements can make sure they fit their own solutions. Those who do not will have to adapt to them later.
 
