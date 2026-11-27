@@ -34,9 +34,9 @@ Simpl builds on a federated architecture where each participant keeps its own so
 
 ### A complex landscape of standards and requirements
 
-The European data spaces are converging on the same building blocks, including the Dataspace Protocol, connectors, ODRL policies, verifiable credentials and DCAT-based catalogues. For Norwegian shared national solutions, the question is therefore not whether they should relate to these standards, but how and when.
+The European data spaces are converging on the same building blocks, including a common protocol for exchanging data (the Dataspace Protocol), a connector (the software each participant connects with), machine-readable terms for the use of data (ODRL), verifiable credentials (digital proofs, for example of who an organisation is) and catalogues of datasets following the DCAT standard. For Norwegian shared national solutions, the question is therefore not whether they should relate to these standards, but how and when.
 
-The solutions must follow the standards for data sharing (Dataspace Protocol, ODRL, DCAT-AP) and the requirements for identity and trust services (eIDAS 2.0, the EUDI wallet, verifiable credentials). That work has to be done anyway, with or without Simpl.
+The solutions must follow the standards for data sharing (Dataspace Protocol, ODRL and DCAT-AP, the European profile of DCAT) and the requirements for identity and trust services (eIDAS 2.0, the EU regulation on electronic identification and trust services, with the EU Digital Identity Wallet and verifiable credentials). That work has to be done anyway, with or without Simpl.
 
 *Assessment:* Simpl-Open is the most concrete European implementation of these building blocks, and can be a locomotive to hitch on to in order to get in line with the standards and requirements.
 
@@ -46,7 +46,7 @@ Simpl's architecture principles are federation, and interoperability without req
 
 *Assessment:* Those who take part in shaping the standards and requirements can make sure they fit their own solutions. Those who do not will have to adapt to them later.
 
-Which shared solutions should be analysed, and which questions must be clarified, is set out in a separate draft under Architecture: [Shared solutions and European requirements](/en/arkitektur/loesningslandskap/fellesloesninger-og-europeiske-krav/). It also covers eIDAS 2.0 and Once-Only, not just data spaces.
+Which shared solutions should be analysed, and which questions must be clarified, is set out in a separate draft under Architecture: [Shared solutions and European requirements](/en/arkitektur/loesningslandskap/fellesloesninger-og-europeiske-krav/). It also covers eIDAS 2.0 and the Once-Only principle (that information should only have to be provided once), not just data spaces.
 
 ### Opportunities
 
@@ -56,17 +56,17 @@ Which shared solutions should be analysed, and which questions must be clarified
 
 ### Simpl as part of the EU open source strategy
 
-The components of Simpl-Open are licensed under EUPL 1.2 and can be reused in Norwegian solutions without adopting all of Simpl. Simpl also accepts contributions from outside: code, assessments of requirements and architecture, issue reports and strategic cooperation. The programme commits to addressing contributions within three working days ([the Simpl programme: How to contribute](https://simpl-programme.ec.europa.eu/dashboard/how-contribute)).
+The components of Simpl-Open are licensed under the EU's own open source licence (EUPL 1.2) and can be reused in Norwegian solutions without adopting all of Simpl. Simpl also accepts contributions from outside: code, assessments of requirements and architecture, issue reports and strategic cooperation. The programme commits to addressing contributions within three working days ([the Simpl programme: How to contribute](https://simpl-programme.ec.europa.eu/dashboard/how-contribute)).
 
-The EU's open source strategy from June 2026 lists Simpl among the EU's existing actions, as middleware for European data spaces. The strategy is to be implemented in particular through the Digital Commons EDIC ([EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)). The consortium was launched in December 2025, with France, Germany, the Netherlands and Italy as members, and is to coordinate national development of open, interoperable and reusable solutions that can be shared across borders ([the Commission, December 2025](https://digital-strategy.ec.europa.eu/en/news/digital-commons-edic-launches-advance-europes-technological-sovereignty)). Internationally there are related initiatives, including the Digital Public Goods Alliance and GovStack.
+The EU's open source strategy from June 2026 lists Simpl among the EU's existing actions, as middleware for European data spaces. The strategy is to be implemented in particular through the Digital Commons EDIC, a European consortium for digital commons ([EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)). The consortium was launched in December 2025, with France, Germany, the Netherlands and Italy as members, and is to coordinate national development of open, interoperable and reusable solutions that can be shared across borders ([the Commission, December 2025](https://digital-strategy.ec.europa.eu/en/news/digital-commons-edic-launches-advance-europes-technological-sovereignty)). Internationally there are related initiatives, including the Digital Public Goods Alliance, which recognises open solutions as digital public goods, and GovStack, which develops common building blocks for digital government.
 
 *Assessment:* No sources have been found that formally link Simpl to the Digital Public Goods Alliance or GovStack, but Simpl builds on the same thinking: shared digital infrastructure as open source, which several countries can use and develop together. For Norway this works both ways:
 
 - **Reuse:** Norwegian shared solutions can adopt components that others have developed.
-- **Development together with others:** If Norwegian solutions are good, they can gain contributors and users outside Norway. One example is Digdir's solutions for describing datasets and public services on data.norge.no, which build on the European standards DCAT-AP and CPSV-AP.
+- **Development together with others:** If Norwegian solutions are good, they can gain contributors and users outside Norway. One example is Digdir's solutions for describing datasets and public services on data.norge.no, which build on the European standards for describing datasets (DCAT-AP) and public services (CPSV-AP).
 - **Comparison:** If tests show that other solutions have a better concept or have come further, it may be better to join the collaboration on them than to develop everything alone.
 
-Simpl-Labs, with conformance tests against Simpl-Open, is a place where such a comparison can be made. The actual collaboration on the code takes place in the projects' own communities, for example in Simpl-Open or in SEMIC, which maintains DCAT-AP and CPSV-AP.
+Simpl-Labs, with conformance tests against Simpl-Open, is a place where such a comparison can be made. The actual collaboration on the code takes place in the projects' own communities, for example in Simpl-Open or in SEMIC, the Commission's community for semantic interoperability, which maintains DCAT-AP and CPSV-AP.
 
 ---
 
@@ -76,14 +76,14 @@ Opportunities and consequences are linked for each provider, and are therefore s
 
 ### Digdir
 
-- **Access control and authorisation (Altinn):** Altinn Authorisation is based on XACML, while Simpl and other data spaces express usage terms in ODRL. A link between the two models is needed if Norwegian access rights are to apply in European data spaces.
-- **Identity and wallet (ID-porten, EUDI wallet):** Simpl-Open uses verifiable credentials both for identification and for contracting, and has chosen an OID4VP verifier. This ties Simpl directly to the work on digital wallets under eIDAS 2.0.
-- **Data catalogues (data.norge.no):** Simpl-Open uses RDF-based descriptions and plans support for DCAT-AP. Norwegian catalogues follow DCAT-AP-NO, and the alignment between them should be tested.
+- **Access control and authorisation (Altinn):** Altinn Authorisation is based on XACML, a standard for access rules, while Simpl and other data spaces express usage terms in ODRL. A link between the two models is needed if Norwegian access rights are to apply in European data spaces.
+- **Identity and wallet (ID-porten, EUDI wallet):** Simpl-Open uses verifiable credentials both for identification and for contracting, and has chosen a verifier, that is, a component that checks credentials from a digital wallet, based on the OpenID for Verifiable Presentations standard (OID4VP). This ties Simpl directly to the work on digital wallets under eIDAS 2.0.
+- **Data catalogues (data.norge.no):** Simpl-Open describes data in RDF, a standard format for linked data, and plans support for DCAT-AP. Norwegian catalogues follow DCAT-AP-NO, the Norwegian profile of DCAT-AP, and the alignment between them should be tested.
 - **Open source:** *Assessment:* Digdir can reuse components from Simpl-Open, let its own solutions meet the alternatives in Simpl-Labs, and work with others on further development where it pays off (see [Simpl as part of the EU open source strategy](#simpl-as-part-of-the-eu-open-source-strategy)).
 
 ### KS Digital
 
-- **Municipal shared solutions:** Municipalities will become participants in several data spaces, including smart communities (SCDS), mobility and energy. Shared solutions such as KS Fiks may become the natural connection point for municipalities, instead of each municipality connecting to each data space.
+- **Municipal shared solutions:** Municipalities will become participants in several data spaces, including smart cities and communities (Smart Communities Data Space, SCDS), mobility and energy. Shared solutions such as KS Fiks, KS's platform for shared digital services for municipalities, may become the natural connection point for municipalities, instead of each municipality connecting to each data space.
 
 ---
 
@@ -93,7 +93,7 @@ The Norwegian Armed Forces launched *the Armed Forces' data-centric architecture
 
 On the EU side, the European Defence Agency (EDA) is building a separate defence data space, the European Defence Artificial Intelligence Data Space (DAIDS). It is to be in routine use around 2029–2030 ([Computing](https://www.computing.co.uk/news/2026/security/eu-hopes-to-sever-defence-data); [Sopra Steria, April 2025](https://www.soprasteria.be/newsroom/press-releases/details/european-defence-agency-select-sopra-steria-CDE-and-CEA-for-framework-contract)). No link has been found between DAIDS and Simpl.
 
-*Assessment:* The principles in FDSA fit well with the thinking behind data spaces. That rules should follow the data corresponds, for example, to ODRL policies that travel with the data through a connector. Total defence depends on data sharing with civilian actors, and these will increasingly be connected to European data spaces. Simpl-Labs could therefore be a neutral, civilian and unclassified arena for testing data sharing between civilian and military actors, without anyone committing to a platform.
+*Assessment:* The principles in FDSA fit well with the thinking behind data spaces. That rules should follow the data corresponds, for example, to machine-readable terms of use (ODRL) that travel with the data through a connector. Total defence depends on data sharing with civilian actors, and these will increasingly be connected to European data spaces. Simpl-Labs could therefore be a neutral, civilian and unclassified arena for testing data sharing between civilian and military actors, without anyone committing to a platform.
 
 Simpl is not designed for classified data. For classified information, NATO standards and classification requirements still apply, and DAIDS is a separate track.
 
@@ -103,7 +103,7 @@ Simpl is not designed for classified data. For classified information, NATO stan
 
 ### Status and adoption
 
-Simpl-Live covers 11 data spaces and initiatives, six in wave 1 and five in wave 2 ([Digital Europe work programme 2025–2027, unofficial consolidated version](https://www.ffg.at/sites/default/files/2026-05/DIGITAL%20WP%2025-27_Unofficial%20version%20with%20amendments.pdf), p. 30). The programme divides implementation into five steps: review of requirements, technical validation, acceptance, operational deployment and maintenance ([the Simpl programme, August 2026](https://simpl-programme.ec.europa.eu/system/files/2026-08/Simpl_Live_Implementation_Phase_Visual.pdf)).
+Simpl-Live covers 11 data spaces and initiatives, divided into two waves: six in wave 1 and five in wave 2 ([Digital Europe work programme 2025–2027, unofficial consolidated version](https://www.ffg.at/sites/default/files/2026-05/DIGITAL%20WP%2025-27_Unofficial%20version%20with%20amendments.pdf), p. 30). The programme divides implementation into five steps: review of requirements, technical validation, acceptance, operational deployment and maintenance ([the Simpl programme, August 2026](https://simpl-programme.ec.europa.eu/system/files/2026-08/Simpl_Live_Implementation_Phase_Visual.pdf)).
 
 - **Wave 1:** Integration of Simpl-Open started in February 2026. By May 2026 the first workshops had been held to review requirements and scenarios ([Simpl, May 2026](https://ec.europa.eu/newsroom/simpl/redirection/item/940026)), and in October 2026 integration was under way in all six ([Simpl, October 2026](https://ec.europa.eu/newsroom/simpl/items/959708/en)). It is planned to be completed in October 2027 ([Simpl-Live factsheet](https://simpl-programme.ec.europa.eu/system/files/2026-05/Factsheet_Simpl-Live_A4%2016.pdf)). According to the programme's milestone report, last updated 24 August 2026, only the Language Data Space (LDS) had completed the review and started technical validation. The other five were still in the first step, and none had reached acceptance or operational deployment (see [Simpl-Live](../simpl-live/#status-of-wave-1-by-initiative)).
 - **Wave 2:** The feasibility studies are complete, and the conclusions were published in June 2026 ([document library](https://simpl-programme.ec.europa.eu/topic/simpl-live-document-library)). No sources have been found showing that implementation has started.
@@ -115,17 +115,17 @@ Outside Simpl-Live, the smart communities pilots have tested Simpl-Open on their
 
 ### Maturity and progress
 
-Simpl-Open is released regularly: a proof of concept in July 2024, the MVP in January 2025, version 4.0 in July 2026 and 4.1 in November 2026. Version 5.0 is planned for Q4 2026 (see [Simpl-Open](../simpl-open/)). Basic governance has been included since the MVP, while management and enforcement of contracts, policies and consent arrive in 5.0. Several of these governance functions have been moved back by about a year since the 2025 roadmaps. Consent, for example, was first planned from Q3 2025 (see [Changes to the plan over time](../simpl-open/#changes-to-the-plan-over-time)).
+Simpl-Open is released regularly: a first trial version (proof of concept) in July 2024, a minimum viable product (MVP) in January 2025, version 4.0 in July 2026 and 4.1 in November 2026. Version 5.0 is planned for Q4 2026 (see [Simpl-Open](../simpl-open/)). Basic governance has been included since the MVP, while management and enforcement of contracts, policies and consent arrive in 5.0. Several of these governance functions have been moved back by about a year since the 2025 roadmaps. Consent, for example, was first planned from Q3 2025 (see [Changes to the plan over time](../simpl-open/#changes-to-the-plan-over-time)).
 
-Progress has been slower than first planned. In 2023 the MVP was to arrive no later than the end of 2024 ([the Commission, October 2023](https://digital-strategy.ec.europa.eu/en/node/10891/printable/pdf)). It arrived on 30 January 2025 ([Simpl-Open roadmap, May 2025](https://simpl-programme.ec.europa.eu/system/files/2025-05/Simpl-Open%20Roadmap%20May%20Update%20and%20June%20Release%20Details%202025.pdf)). In March 2026 Simpl-Labs was announced for autumn 2026, while in October 2026 DSSC described interoperability testing in Labs as coming in 2027 (see [Simpl-Labs](../simpl-labs/)).
+Progress has been slower than first planned. In 2023 the MVP was to arrive no later than the end of 2024 ([the Commission, October 2023](https://digital-strategy.ec.europa.eu/en/node/10891/printable/pdf)). It arrived on 30 January 2025 ([Simpl-Open roadmap, May 2025](https://simpl-programme.ec.europa.eu/system/files/2025-05/Simpl-Open%20Roadmap%20May%20Update%20and%20June%20Release%20Details%202025.pdf)). In March 2026 Simpl-Labs was announced for autumn 2026, while in October 2026 the EU's support centre for data spaces, the Data Spaces Support Centre (DSSC), described interoperability testing in Labs as coming in 2027 (see [Simpl-Labs](../simpl-labs/)).
 
 The programme has been continued with EUR 52.9 million for 2025–2027 ([the work programme](https://www.ffg.at/sites/default/files/2026-05/DIGITAL%20WP%2025-27_Unofficial%20version%20with%20amendments.pdf), pp. 31–32).
 
 ### Simpl and other solutions for data spaces
 
-Simpl-Open is not the only technical option for data spaces. DSSC says so itself ([DSSC, October 2026](https://dssc.eu/articles/from-guidance-to-deployment-how-simpl-helps-put-dsscs-guidance-into-practice)), and the Commission wrote in 2023 that Simpl deliberately stays away from sector-specific data services, and that Gaia-X, IDSA and Eclipse are followed with great interest ([the Commission, October 2023](https://digital-strategy.ec.europa.eu/en/node/10891/printable/pdf)). IDSA describes Simpl as a user of its standards ([IDSA](https://internationaldataspaces.org/from-idsa-standards-to-simpl-solutions/)).
+Simpl-Open is not the only technical option for data spaces. DSSC says so itself ([DSSC, October 2026](https://dssc.eu/articles/from-guidance-to-deployment-how-simpl-helps-put-dsscs-guidance-into-practice)), and the Commission wrote in 2023 that Simpl deliberately stays away from sector-specific data services, and that Gaia-X (a European initiative for trusted sharing of data and cloud services), the International Data Spaces Association (IDSA, which develops standards for data spaces) and the Eclipse Foundation (which maintains open source, including for data spaces) are followed with great interest ([the Commission, October 2023](https://digital-strategy.ec.europa.eu/en/node/10891/printable/pdf)). IDSA describes Simpl as a user of its standards ([IDSA](https://internationaldataspaces.org/from-idsa-standards-to-simpl-solutions/)).
 
-A peer-reviewed article from April 2026 assesses Simpl's maturity as significantly lower than that of Eclipse Tractus-X, which is used in the automotive data space Catena-X ([Paz et al., JISBD 2026](https://hdl.handle.net/11705/JISBD/2026/168)). Two of the authors work on Tractus-X themselves.
+A peer-reviewed article from April 2026 assesses Simpl's maturity as significantly lower than that of Eclipse Tractus-X, an open source solution used in the automotive data space Catena-X ([Paz et al., JISBD 2026](https://hdl.handle.net/11705/JISBD/2026/168)). Two of the authors work on Tractus-X themselves.
 
 *Assessment:* This speaks for using Simpl-Labs to test interoperability between several solutions, not for committing to one. Governance of the programme and the roadmap lies with the Commission, and that is precisely why it is an advantage to take part where the priorities are set.
 
