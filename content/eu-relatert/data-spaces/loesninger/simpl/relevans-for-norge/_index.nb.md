@@ -32,7 +32,7 @@ Kildene står i kapitlene under.
 
 Simpl bygger på en føderert arkitektur der hver deltaker beholder sine egne løsninger, så lenge de følger de felles standardene (se [Én løsning blant flere](../om-simpl/#én-løsning-blant-flere)). Det får følger for hele den norske digitale fellesinfrastrukturen, ikke bare for enkeltløsninger.
 
-### Felles standarder kommer uansett
+### Et komplisert landskap av standarder og krav
 
 De europeiske data spacene samles om de samme byggeklossene, blant annet Dataspace Protocol, connector, ODRL-policyer, verifiserbare attester og DCAT-baserte kataloger. For norske fellesløsninger er spørsmålet derfor ikke om de skal forholde seg til disse standardene, men hvordan og når.
 

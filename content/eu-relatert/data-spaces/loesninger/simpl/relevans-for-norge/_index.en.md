@@ -32,7 +32,7 @@ The sources are given in the chapters below.
 
 Simpl builds on a federated architecture where each participant keeps its own solutions, as long as they follow the common standards (see [One solution among several](../om-simpl/#one-solution-among-several)). This has consequences for Norway's digital public infrastructure as a whole, not just for individual solutions.
 
-### Common standards are coming anyway
+### A complex landscape of standards and requirements
 
 The European data spaces are converging on the same building blocks, including the Dataspace Protocol, connectors, ODRL policies, verifiable credentials and DCAT-based catalogues. For Norwegian shared national solutions, the question is therefore not whether they should relate to these standards, but how and when.
 
